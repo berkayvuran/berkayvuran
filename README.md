@@ -9,9 +9,6 @@
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
 
-
-<h2 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Berkay</a></h2>
-<p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/berkayvuran">
   <img alt="berkay | LinkdedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
