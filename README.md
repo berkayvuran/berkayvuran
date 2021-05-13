@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good”!</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=berkayvuran&color=red" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-26-red" />
 <img src="https://img.shields.io/badge/Focus-Object%20Oriented%20Programming-red" />
@@ -42,6 +38,10 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 ✔ I'm a ***passionate learner***, I’m currently learning **OOP & AOP** 🥰<br>
 ✔ I'm a ***radical cyclist*** 🚴 <br>
 ✔ Ask from me anything you want, if I am alive I will answer within seconds 😉<br>
+
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
 <hr>
   <p align="center">
