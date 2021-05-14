@@ -5,12 +5,8 @@
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-red" />
 </p>
 
-<p align="left">
-<img align="left" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
-</p>
-
-<p align="right">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" />
+<p align="center">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" />
 </p>
 
 <p align="center">
@@ -72,3 +68,6 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 <hr>
 
+<p align="center">
+<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
+</p>
