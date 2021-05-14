@@ -49,7 +49,7 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 <!--<p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</p>
+</p>-->
 
 <hr>
 <p align="center">
@@ -63,4 +63,4 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 <!--<p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" />
-</p>
+</p>-->
