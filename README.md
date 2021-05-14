@@ -62,8 +62,11 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 <img src='https://github-readme-stats.vercel.app/api?username=berkayvuran&show_icons=true&theme=radical&count_private=true'/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayvuran&count_private=true&theme=radical" alt="mostlypanda" /
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostlypanda&count_private=true&theme=radical" alt="berkayvuran" />
 
+<div style="flex: 33.33%; padding: 5px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=berkayvuran&count_private=true&theme=radical" alt="berkayvuran" /></div>
+</div>
 <hr>
 
 <p align="center">
