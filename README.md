@@ -9,7 +9,6 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" />
 </p>
 
-
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/berkayvuran">
@@ -53,6 +52,13 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <p align="center">
 <img alig src="https://github-profile-trophy.vercel.app/?username=berkayvuran&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+
+<a href="https://github.com/berkayvuran">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=berkayvuran&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
+</a>
+<a href="https://github.com/berkayvuran">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=berkayvuran&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" />
+</a>
 
 <hr>
 
