@@ -50,11 +50,7 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <br/>
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=berkayvuran&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-<p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=mostlypanda&show_icons=true&theme=radical&count_private=true'/>
+<img src='https://github-readme-stats.vercel.app/api?username=berkayvuran&show_icons=true&theme=radical&count_private=true'/>
 </p>
 
 <hr>
