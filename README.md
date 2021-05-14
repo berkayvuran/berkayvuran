@@ -52,7 +52,6 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 </p>
 [![Berkay's github stats](https://github-readme-stats.vercel.app/api?username=berkayvuran&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/berkayvuran)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuran&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/berkayvuran)
-<br><br><br><br><br>
 
 
 <hr>
