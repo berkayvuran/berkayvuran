@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="1200" />
-</p>
-
-<p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/berkayvuran">
   <img alt="berkay | LinkdedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
@@ -64,3 +60,7 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <!--<p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" />
 </p>-->
+
+<p align="center">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="1200" />
+</p>
