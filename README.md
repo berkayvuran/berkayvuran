@@ -68,7 +68,9 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 <hr>
 
-<img align="left" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
+<p align="left">
+<img align="left" alt="GIF" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" />
+</p>
 
 <p align="right">
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
