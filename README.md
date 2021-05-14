@@ -55,9 +55,9 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 <br/>
 
-<a href="https://github.com/syedammar111">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=syedammar111&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedammar111&theme=buefy&layout=compact" />
+<a href="https://github.com/berkayvuran">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=berkayvuran&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuran&theme=buefy&layout=compact" />
 </a>
 
 <br/>
