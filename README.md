@@ -55,5 +55,7 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 <hr>
 
-
+<p align="center">
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+</p>
+
