@@ -50,8 +50,8 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=berkayvuran&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayvuran&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=berkayvuran&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+[![Berkay's github stats](https://github-readme-stats.vercel.app/api?username=berkayvuran&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/berkayvuran)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuran&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/berkayvuran)
 <br><br><br><br><br>
 
 
