@@ -57,12 +57,13 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayvuran&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=berkayvuran&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
-<br/>
-<p>
-<a href="https://github.com/berkayvuran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkayvuran&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkayvuran&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
 <hr>
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=berkayvuran&theme=juicyfresh&no-bg=true" />
