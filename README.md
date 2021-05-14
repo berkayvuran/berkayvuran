@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="1000" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
   <img alt="berkay | Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="640" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
