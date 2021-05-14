@@ -53,13 +53,7 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <img alig src="https://github-profile-trophy.vercel.app/?username=berkayvuran&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<br/>
-
-<a href="https://github.com/berkayvuran">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=berkayvuran&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuran&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <hr>
+
+
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
