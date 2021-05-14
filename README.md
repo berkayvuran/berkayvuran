@@ -43,6 +43,10 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" />
+</p>
+
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
