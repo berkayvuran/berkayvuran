@@ -46,12 +46,20 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
+
+<br/>
+
 <p align="center">
 <img alig src="https://github-profile-trophy.vercel.app/?username=berkayvuran&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-[![Berkay's github stats](https://github-readme-stats.vercel.app/api?username=berkayvuran&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/berkayvuran/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuran&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/berkayvuran/github-readme-stats)
+<br/>
+
+<a href="https://github.com/syedammar111">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=syedammar111&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedammar111&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 <hr>
