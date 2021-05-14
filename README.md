@@ -52,9 +52,11 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <br/>
-
-<p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=berkayvuran&show_icons=true&theme=radical&count_private=true'/>
+<p>
+<a href="https://github.com/berkayvuran">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkayvuran&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkayvuran&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
 </p>
 
 <hr>
