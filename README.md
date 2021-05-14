@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="1000" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="1200" />
 </p>
 
 <p align="center">
