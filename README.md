@@ -20,7 +20,7 @@
   <img alt="berkay | stackoverflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
 <a href="https://www.hackerrank.com/berkayVuran">
-  <img alt="berkay | hackerrank" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1200px-Hackerrank_meaningful_logo.svg.png" />
+  <img alt="berkay | hackerrank" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
 <a href="https://twitter.com/berkay__vuran">
   <img alt="berkay | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
