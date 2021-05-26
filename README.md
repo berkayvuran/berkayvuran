@@ -39,6 +39,7 @@ I'm a Graduate Student in **Organizational Behaviour [@Hacettepe University](htt
 
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I am a professional user of *T-SQL*. <br>
 ✔ I'm a ***passionate learner***, I’m currently learning **OOP & AOP** 🥰<br>
 ✔ I'm a ***radical cyclist*** 🚴 <br>
 ✔ Ask from me anything you want, if I am alive I will answer within seconds 😉<br>
