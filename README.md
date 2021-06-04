@@ -28,6 +28,9 @@
 <a href="https://www.facebook.com/vuranberkay">
   <img alt="berkay | Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
+  <a href="https://www.strava.com/athletes/berkayvuran">
+  <img alt="berkay | Strava" width="35px" src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" />
+</a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
