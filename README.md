@@ -1,6 +1,3 @@
-<link rel="stylesheet" type="text/css" href="https://widgets.superpeer.com/widget.css"><script src="https://widgets.superpeer.com/widget.js"></script><div class="sp-widget-wrapper" style="width: 1280px; height: 800px;"></div><script>window.addEventListener("load", () => {new Superpeer.Widget({embed:{type:"inline",wrapperSelector:".sp-widget-wrapper"},config:{username:"berkayvuran",serviceSlug:""}})})</script>
-
-
 <p align="center">
 <img align="center" alt="PNG" src="https://www.linkpicture.com/q/Analyst_2.png" width="1200" />
 </p>
