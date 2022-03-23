@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="PNG" src="https://www.linkpicture.com/q/Analyst_2.png" width="1200" />
+<img align="center" alt="PNG" src="https://www.linkpicture.com/q/10_187.png" width="1200" />
 </p>
 
 <p align="center">
