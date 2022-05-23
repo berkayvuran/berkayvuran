@@ -1,8 +1,4 @@
 <p align="center">
-<img align="center" alt="PNG" src="https://www.linkpicture.com/q/10_187.png"  />
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=berkayvuran&color=red" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-27-red" />
 <img src="https://img.shields.io/badge/Focus-Object%20Oriented%20Programming-red" />
