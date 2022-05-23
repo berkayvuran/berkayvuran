@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-red" />
 </p>
 
-<!--p align="center">
+<p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/berkayvuran">
   <img alt="berkay | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -32,7 +32,7 @@
 </a>
   <a href="https://www.strava.com/athletes/berkayvuran">
   <img alt="berkay | Strava" width="35px" src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" />
-</a-->
+</a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"/>
 
