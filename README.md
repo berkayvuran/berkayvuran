@@ -16,7 +16,7 @@
 </a>
 <a href="https://berkayvuran.medium.com">
   <img alt="berkay | Medium" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"/>
-</a><a href="https://twitter.com/berkay__vuran">
+</a><a href="https://twitter.com/vuranberkay">
   <img alt="berkay | Twitter" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
 <a href="https://www.facebook.com/vuranberkay">
