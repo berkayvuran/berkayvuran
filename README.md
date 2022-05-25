@@ -42,7 +42,7 @@
 
 </p>
 
-I am familiar with such concepts that UML components, mockup design principles and design tools, data engineering, business intelligence, negotiation, user story / use case creation techniques, blackbox - whitebox - smoke test - unit test - integration test - user acceptance test methodologies. I can write SQL-TSQL queries at a sufficent level for my job description. I attended PSPO, PSM, PMP, ITIL and CBAP preparatory trainings.
+I am a technology designer who brings data-driven problems to user experience-oriented solutions. Although I am originally a psychologist and candidate organizational behavior specialist from Hacettepe University; in different organizational climates, at different sociocultural levels and in different sectors; I take a role of PM & PO & BA roles according to the project/product management approach. I attended PSM, PMP, PSPO and ITIL trainings.
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I am a ***professional*** of **Analysis**. 💻<br>
