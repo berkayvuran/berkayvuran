@@ -38,7 +38,6 @@
   <img alt="berkay | Strava" width="35px" src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" />
 </a>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 </p>
 
