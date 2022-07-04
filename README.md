@@ -41,7 +41,9 @@
 
 </p>
 
-I am a technology designer who brings data-driven problems to user experience-oriented solutions. Although I am originally a psychologist and candidate organizational behavior specialist from Hacettepe University; in different organizational climates, at different sociocultural levels and in different sectors; I take a role of PM & PO & BA roles according to the project/product management approach. I attended PSM, PMP, PSPO and ITIL trainings.
+I am a technology designer who brings data-driven problems to user experience-oriented solutions. Although I am originally a psychologist and candidate organizational behavior specialist from Hacettepe University; in different organizational climates, at different sociocultural levels and in different sectors; I take a role of product owner & product manager (IC) & business analyst according to the project/product management approach.
+
+I am familiar with such concepts that UML components, mockup design principles, design tools, end-to-end software development / data architecture / modeling, user story / use case generation techniques, blackbox-whitebox-smoke test-unit test-integration test and user acceptance test. I can write a good level of SQL query. I attended PMP and ITIL preparatory trainings.
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I am a ***professional*** of **Analysis**. 💻<br>
