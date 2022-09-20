@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=berkayvuran&color=red" alt="watching_count" />
-<img src="https://img.shields.io/badge/Age-27-red" />
+<img src="https://img.shields.io/badge/Age-28-red" />
 <img src="https://img.shields.io/badge/Focus-Object%20Oriented%20Programming-red" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-red" />
 </p>
