@@ -52,7 +52,6 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 ✔ I'm a ***passionate learner*** 🥰<br>
 ✔ I'm a ***radical cyclist*** 🚴 <br>
 ✔ Ask from me anything you want, if I am alive I will answer within seconds 😉<br>
-
 <br/>
 
 <p align="center">
