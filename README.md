@@ -45,7 +45,7 @@ I am a **technology designer** who brings **data-driven** problems to **user exp
   
 I am confident in **project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development lifecycle (SDLC), product prototyping, user segmentation, tech & non-tech testing, design & product management tools and UML components.** I can write effective SQL and JQL queries.
   
-I am most skilled in <mark>Product Management</mark> and <mark>Brew Coffee</mark>.
+I am most skilled in *Product Management* and *Brew Coffee*.
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I am a ***professional*** of **Product Management**. 💻<br>
