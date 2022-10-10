@@ -21,7 +21,9 @@ I am confident in **project management, product management, diversity management
 I am most skilled in *Product Management* and *Brew Coffee*.
 
 <details>
-##  <summary>Experience</summary>
+  <summary>Experience</summary>
+  
+## 💻 **Experience**  
   
 ### - Product Owner @Navlungo (01.2022 - 09.2022)
 - My responsibilities included lead technical & non-technical analysis (with Asana & Coda), create business intelligence reports (with AWS QuickSight & PostgreSQL), collect user requirements (with Asana), UX research and design (with Figma), conversion & funnel optimization (with Google Analytics & Hotjar), customer acquisition, retention and gamification activities (online & offline) with incredibly talented technology, marketing, product, operations and sales teams.
@@ -41,7 +43,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 </details>
 
 
-## 💻 **Experience**
+
 
 ### - Product Owner @Navlungo (01.2022 - 09.2022)
 - My responsibilities included lead technical & non-technical analysis (with Asana & Coda), create business intelligence reports (with AWS QuickSight & PostgreSQL), collect user requirements (with Asana), UX research and design (with Figma), conversion & funnel optimization (with Google Analytics & Hotjar), customer acquisition, retention and gamification activities (online & offline) with incredibly talented technology, marketing, product, operations and sales teams.
