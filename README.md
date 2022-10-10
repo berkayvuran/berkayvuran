@@ -9,17 +9,17 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width:100 />
 </p>
 
-I am a **technology designer** who brings **data-driven** problems to **user experience-oriented** solutions. Although I am originally a **psychologist** and candidate **organizational behavior specialist** from Hacettepe University; I take a role of **project manager & product manager & product owner** according to the project/product management approach in different organizational climates, at different sociocultural levels and in different sectors.
-  
-I am confident in **project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development lifecycle (SDLC), product prototyping, user segmentation, tech & non-tech testing, design & product management tools and UML components.** I can write effective SQL and JQL queries.
-  
-I am most skilled in *Product Management* and *Brew Coffee*.
-
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I am a ***professional*** of **Product Management**. 💻<br>
 ✔ I'm a ***passionate learner*** 🥰<br>
 ✔ I'm a ***radical cyclist*** 🚴 <br>
 ✔ Ask from me anything you want, if I am alive I will answer within seconds 😉<br>
+
+I am a **technology designer** who brings **data-driven** problems to **user experience-oriented** solutions. Although I am originally a **psychologist** and candidate **organizational behavior specialist** from Hacettepe University; I take a role of **project manager & product manager & product owner** according to the project/product management approach in different organizational climates, at different sociocultural levels and in different sectors.
+  
+I am confident in **project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development lifecycle (SDLC), product prototyping, user segmentation, tech & non-tech testing, design & product management tools and UML components.** I can write effective SQL and JQL queries.
+  
+I am most skilled in *Product Management* and *Brew Coffee*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
