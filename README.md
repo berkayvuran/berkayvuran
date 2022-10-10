@@ -36,7 +36,6 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 ✔ I'm a ***passionate learner*** 🥰<br>
 ✔ I'm a ***radical cyclist*** 🚴 <br>
 ✔ Ask from me anything you want, if I am alive I will answer within seconds 😉<br>
-<br/>
 
 <p align="center">
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
