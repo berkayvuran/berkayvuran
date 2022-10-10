@@ -21,7 +21,7 @@ I am confident in **project management, product management, diversity management
 I am most skilled in *Product Management* and *Brew Coffee*.
 
 <details>
-  <summary>Experience</summary>
+  <summary>Experiences</summary>
     
 ### - Product Owner @Navlungo (01.2022 - 09.2022)
 - My responsibilities included lead technical & non-technical analysis (with Asana & Coda), create business intelligence reports (with AWS QuickSight & PostgreSQL), collect user requirements (with Asana), UX research and design (with Figma), conversion & funnel optimization (with Google Analytics & Hotjar), customer acquisition, retention and gamification activities (online & offline) with incredibly talented technology, marketing, product, operations and sales teams.
@@ -41,7 +41,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 </details>
 
 <details>
-  <summary>Education</summary>
+  <summary>Educations</summary>
     
 ### - Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student)
@@ -54,6 +54,19 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 
 ### - Hacettepe University Psychology BSc (2013 - 2017)
 - GPA: 3.55/4.00 (High Honor Student)
+
+</details>
+
+<details>
+  <summary>Certifications</summary>
+    
+### - Professional Scrum Master™ I (2022)
+
+### - Professional Scrum Product Owner™ I (2022)
+
+### - Problem Solving (HackerRank) (2022)
+
+### - SQL (HackerRank) (2021)
 
 </details>
 
