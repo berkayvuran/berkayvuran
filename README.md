@@ -22,9 +22,9 @@ I am confident in **project management, product management, diversity management
   
 I am most skilled in *Product Management* and *Brew Coffee*.
 
-## **Experiences**
+## **Experience**
 
-### - Product Owner @Navlungo (01.2022 — 09.2022)
+### - Product Owner @Navlungo (01.2022 - 09.2022)
 - My responsibilities included lead technical & non-technical analysis (with Asana & Coda), create business intelligence reports (with AWS QuickSight & PostgreSQL), collect user requirements (with Asana), UX research and design (with Figma), conversion & funnel optimization (with Google Analytics & Hotjar), customer acquisition, retention and gamification activities (online & offline) with incredibly talented technology, marketing, product, operations and sales teams.
 
 ### - Sr. Business Analyst @Etiya (11.2021 - 01.2022)
@@ -38,6 +38,20 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 
 ### - Assistant @Hacettepe University Scientific Research Unit (10.2015 - 06.2017)
 - My responsibilities included lead for technical requirements, analyze research data, software quality assurance, technical communication for academic projects with Hacettepe University Psychology and Computer Education and Instructional Technology Departments, Bilkent University Graduate School of Education and TED University Psychology Department.
+
+## **Education**
+
+### - Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
+- GPA: 3.86/4.00 (High Honor Student)
+
+### - Anadolu University Web Design and Coding ASc (2020 - 2022)
+- GPA: 3.08/4.00 (Honor Student)
+
+### - Middle East Technical University English Prep. School (2017 - 2018)
+- Level: B2
+
+### - Hacettepe University Psychology BSc (2013 - 2017)
+- GPA: 3.55/4.00 (High Honor Student)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
