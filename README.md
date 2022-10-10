@@ -41,7 +41,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 </details>
 
 <details>
-  <summary>Educations</summary>
+  <summary><h2>Educations</h2></summary>
     
 ### - Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student)
@@ -58,7 +58,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 </details>
 
 <details>
-  <summary>Certifications</summary>
+  <summary><h2>Certifications</h2></summary>
     
 ### - Professional Scrum Master™ I (2022)
 
