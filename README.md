@@ -47,5 +47,5 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 </p>-->
 
 <p align="center">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width:100 />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif"  />
 </p>
