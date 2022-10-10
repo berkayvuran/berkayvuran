@@ -1,21 +1,3 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=berkayvuran&color=red" alt="watching_count" />
-<img src="https://img.shields.io/badge/Age-28-red" />
-<img src="https://img.shields.io/badge/Focus-Object%20Oriented%20Programming-red" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-red" />
-</p>
-
-<p align="center">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width: 100/>
-</p>
-
-
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I am a ***professional*** of **Product Management**. 💻<br>
-✔ I'm a ***passionate learner*** 🥰<br>
-✔ I'm a ***radical cyclist*** 🚴 <br>
-✔ Ask from me anything you want, if I am alive I will answer within seconds 😉<br>
-
 I am a **technology designer** who brings **data-driven** problems to **user experience-oriented** solutions. Although I am originally a **psychologist** and candidate **organizational behavior specialist** from Hacettepe University; I take a role of **project manager & product manager & product owner** according to the project/product management approach in different organizational climates, at different sociocultural levels and in different sectors.
   
 I am confident in **project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development lifecycle (SDLC), product prototyping, user segmentation, tech & non-tech testing, design & product management tools and UML components.** I can write effective SQL and JQL queries.
