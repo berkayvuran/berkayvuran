@@ -19,7 +19,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 
 ## **Experiences**
 
-- Product Owner @Navlungo (01.2022 — 09.2022)
+### - Product Owner @Navlungo (01.2022 — 09.2022)
 - asd
 
 
