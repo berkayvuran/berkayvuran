@@ -5,6 +5,11 @@
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-red" />
 </p>
 
+<p align="center">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width: 100/>
+</p>
+
+
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I am a ***professional*** of **Product Management**. 💻<br>
 ✔ I'm a ***passionate learner*** 🥰<br>
@@ -58,7 +63,3 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 <br><br><br><br><br>
 
 <hr>
-
-<p align="center">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width: 100/>
-</p>
