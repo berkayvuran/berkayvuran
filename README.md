@@ -109,6 +109,34 @@ My responsibilities included lead for technical requirements, analyze research d
 
 </details>
 
+<details>
+  <summary><h2>Publications</h2></summary>
+    
+### The Social Effects Of COVID-19 Pandemic Research Article (2021)
+<a href="https://jag.journalagent.com/turkhijyen/pdfs/THDBD_78_3_235_248.pdf" target="_blank" rel="noreferrer noopener">Click Here</a>
+
+### Maritime And Sailing Sports From Psychological Perspective Review Article (2016)
+<a href="https://sporbilimleri.com.tr/yayin/psikolojik-acidan-denizcilik-ve-yelkencilik-sporlari" target="_blank" rel="noreferrer noopener">Click Here</a>
+  
+</details>
+
+<details>
+  <summary><h2>Results</h2></summary>
+    
+### KPSS (2020)
+<a href="https://berkayvuran.com/assets/appendices/kpss.pdf" target="_blank" rel="noreferrer noopener">83.94/100.00</a>
+
+### ALES (2019)
+<a href="https://berkayvuran.com/assets/appendices/ales.pdf" target="_blank" rel="noreferrer noopener">86.88/100.00</a>
+  
+### YÖKDİL (2018)
+<a href="https://berkayvuran.com/assets/appendices/yokdil.pdf" target="_blank" rel="noreferrer noopener">90.00/100.00</a>
+  
+### LYS (2013)
+<a href="https://berkayvuran.com/assets/appendices/lys.pdf" target="_blank" rel="noreferrer noopener">899/725,672 (0.001%)</a>
+  
+</details>
+
 <p align="center">
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p> 
