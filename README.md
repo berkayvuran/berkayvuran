@@ -79,16 +79,16 @@ My responsibilities included lead for technical requirements, analyze research d
   <summary><h2>Educations</h2></summary>
     
 ### Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
-- GPA: 3.86/4.00 (High Honor Student)
+- GPA: 3.86/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/org.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 ### Anadolu University Web Design and Coding ASc (2020 - 2022)
-- GPA: 3.08/4.00 (Honor Student)
+- GPA: 3.08/4.00 (Honor Student) <a href="https://berkayvuran.com/assets/appendices/web.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 ### Middle East Technical University English Prep. School (2017 - 2018)
-- Level: B2
+- Level: B2 <a href="https://berkayvuran.com/assets/appendices/prep.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 ### Hacettepe University Psychology BSc (2013 - 2017)
-- GPA: 3.55/4.00 (High Honor Student)
+- GPA: 3.55/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/psy.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 </details>
 
