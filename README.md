@@ -19,7 +19,7 @@ I am confident in **project management, product management, diversity management
 I am most skilled in *Product Management* and *Brew Coffee*.
 
 -----
-<h2 align="Middle">Resume</h2>
+<h1 align="Middle">Resume</h1>
 
 <details>
   <summary><h2>Experiences</h2></summary>
