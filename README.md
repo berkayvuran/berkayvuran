@@ -78,16 +78,16 @@ My responsibilities included lead for technical requirements, analyze research d
 <details>
   <summary><h2>Educations</h2></summary>
     
-### - Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
+### Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student)
 
-### - Anadolu University Web Design and Coding ASc (2020 - 2022)
+### Anadolu University Web Design and Coding ASc (2020 - 2022)
 - GPA: 3.08/4.00 (Honor Student)
 
-### - Middle East Technical University English Prep. School (2017 - 2018)
+### Middle East Technical University English Prep. School (2017 - 2018)
 - Level: B2
 
-### - Hacettepe University Psychology BSc (2013 - 2017)
+### Hacettepe University Psychology BSc (2013 - 2017)
 - GPA: 3.55/4.00 (High Honor Student)
 
 </details>
@@ -95,13 +95,13 @@ My responsibilities included lead for technical requirements, analyze research d
 <details>
   <summary><h2>Certifications</h2></summary>
     
-### - Professional Scrum Master™ I (2022)
+### Professional Scrum Master™ I (2022) <a href="https://www.credly.com/badges/d21135e4-80ee-4c03-be13-6611aff304b3?source=linked_in_profile" target="_blank" rel="noreferrer noopener">Click Here</a>
 
-### - Professional Scrum Product Owner™ I (2022)
+### Professional Scrum Product Owner™ I (2022)
 
-### - Problem Solving (HackerRank) (2022)
+### Problem Solving (HackerRank) (2022)
 
-### - SQL (HackerRank) (2021)
+### SQL (HackerRank) (2021)
 
 </details>
 
