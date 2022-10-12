@@ -27,19 +27,51 @@ I am most skilled in *Product Management* and *Brew Coffee*.
   <summary><h2>Experiences</h2></summary>
     
 ### - Product Owner @Navlungo (01.2022 - 09.2022)
-- My responsibilities included lead technical & non-technical analysis (with Asana & Coda), create business intelligence reports (with AWS QuickSight & PostgreSQL), collect user requirements (with Asana), UX research and design (with Figma), conversion & funnel optimization (with Google Analytics & Hotjar), customer acquisition, retention and gamification activities (online & offline) with incredibly talented technology, marketing, product, operations and sales teams.
+My responsibilities included lead technical & non-technical analysis (with Asana & Coda), create business intelligence reports (with AWS QuickSight & PostgreSQL), collect user requirements (with Asana), UX research and design (with Figma), conversion & funnel optimization (with Google Analytics & Hotjar), customer acquisition, retention and gamification activities (online & offline) with incredibly talented technology, marketing, product, operations and sales teams.
+
+- Reached more than 70,000 customers, 1,000,000 transactions, 3 service area continent, 230 country.
+
+- Increased overall sales volume more than 150%.
+
+- Analyzed business & technical logics of 'navlungo.com' which aims to digitize logistics end-to-end.
+
+- Managed development process a fully-featured new product for ship & shop from Turkey to worldwide 'deliver.ist' in 3 months from ideation to production.
+
+- Desgined and implement the KPI reporting platform on AWS QuickSight in order to become a data oriented company. All data from sales, operations, marketing and product is aggregated and made transparent to the entire business.
+
+- Managed user requirements about main and side products thats are express, freight, fulfillment, finance and marketing on Asana, Figma, Coda and Instagantt.
+
+- Improved the growth & reducing churn strategies and manage relationship about usability of pathway between marketing & technology & design & product teams.
+
+- Conducted user experience studies and lead user interface changes.
 
 ### - Sr. Business Analyst @Etiya (11.2021 - 01.2022)
-- My responsibilities included make technical & non-technical HLD and LLD analysis (with JIRA & Confluence), create UAT scenerios, UX research and design (with Balzamiq) for CRM transformation project developed by Etiya for biggest telco company of MENA, Ooredoo.
+My responsibilities included make technical & non-technical HLD and LLD analysis (with JIRA & Confluence), create UAT scenerios, UX research and design (with Balzamiq) for CRM transformation project developed by Etiya for biggest telco company of MENA, Ooredoo.
 
 ### - Product Owner @Turkish Ministry Of Health (02.2019 - 11.2021)
-- My responsibilities included lead technical & non-technical analysis (with JIRA & TFS & Confluence), create business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL), collect user requirements (online/offline), UX research and design (with Balzamiq) with bureaucrats, communication center managers, techincal leads and healthcare professionals.
+My responsibilities included lead technical & non-technical analysis (with JIRA & TFS & Confluence), create business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL), collect user requirements (online/offline), UX research and design (with Balzamiq) with bureaucrats, communication center managers, techincal leads and healthcare professionals.
+
+- Led the technical call center architecture & UML diagrams of COVID-19 Hotline which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year.
+
+- Designed all of the user cases and scenarios of Meeting Point Web Application which aims to strengthen relationship between healthcare professionals and high level managers and it has approximately 100,000 users per year.
+
+- Analyzed business & technical logics of Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year.
+
+- Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strenghten communication between patients and healthcare professionals and it was (currently deactive) approximately 20,000 users per year.
+
+- Designed all of the user cases & UML diagrams about health communication of Turkish Ministry of Health WhatsApp Hotline which aims to strenghten communication between patients and healthcare professionals and it was (currently deactive) approximately 10,000 users per year.
 
 ### - Business Development Specialist @OZEM Academy (11.2017 - 02.2019)
-- My responsibilities included lead marketing strategies for growth, give training to more than 50 institutions such as MEV College and National Education Directorate, create internal communication structure, research about human-machine interface methods, design experimental psychology pathways for the academy with healthcare professionals.
+My responsibilities included lead marketing strategies for growth, give training to more than 50 institutions such as MEV College and National Education Directorate, create internal communication structure, research about human-machine interface methods, design experimental psychology pathways for the academy with healthcare professionals.
 
 ### - Assistant @Hacettepe University Scientific Research Unit (10.2015 - 06.2017)
-- My responsibilities included lead for technical requirements, analyze research data, software quality assurance, technical communication for academic projects with Hacettepe University Psychology and Computer Education and Instructional Technology Departments, Bilkent University Graduate School of Education and TED University Psychology Department.
+My responsibilities included lead for technical requirements, analyze research data, software quality assurance, technical communication for academic projects with Hacettepe University Psychology and Computer Education and Instructional Technology Departments, Bilkent University Graduate School of Education and TED University Psychology Department.
+
+- Game Type Computer Aided Cognitive Exercise Program (OBEP) Development Study for Alzheimer Type Dementia and Mild Cognitive Impairment
+
+- Investigation of Artwork Analysis Process in Individuals Related to Art at Different Levels by Eye Tracking Technique
+
+- Different Sources, Different Trajectories: A Three-Year Longitudinal Study of Academic Achievement as a Function of Adolescent's Class and Family Characteristics
 
 </details>
 
