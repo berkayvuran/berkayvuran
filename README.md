@@ -22,7 +22,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 <h1 align="Middle">Resume</h1>
 
 <details>
-  <summary><h2>Experiences</h2></summary>
+  <summary><h2>Experience</h2></summary>
     
 ### Product Manager @Emlakjet (10.2022 - Present)
 My responsibilities include analyze and breakdown market problems into prioritized & deliverable stories, work with product and development teams to coordinate product strategy & release timelines & product quality, involve with all phases of SDLC, manage and prioritize product backlog, plan AB test scenarios on a monthly basis, schedule monthly user test scenarios, keep in touch with every stakeholder of the product regularly.
@@ -77,7 +77,7 @@ My responsibilities included lead for technical requirements, analyze research d
 </details>
 
 <details>
-  <summary><h2>Educations</h2></summary>
+  <summary><h2>Education</h2></summary>
     
 ### Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/org.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
@@ -94,7 +94,7 @@ My responsibilities included lead for technical requirements, analyze research d
 </details>
 
 <details>
-  <summary><h2>Certifications</h2></summary>
+  <summary><h2>Licenses & Certifications</h2></summary>
     
 ### Professional Scrum Master™ I (2022)
 <a href="https://www.credly.com/badges/d21135e4-80ee-4c03-be13-6611aff304b3?source=linked_in_profile" target="_blank" rel="noreferrer noopener">Click Here</a>
@@ -107,6 +107,41 @@ My responsibilities included lead for technical requirements, analyze research d
 
 ### SQL (HackerRank) (2021)
 <a href="https://www.hackerrank.com/certificates/fdef44d4b47b" target="_blank" rel="noreferrer noopener">Click Here</a>    
+
+</details>
+
+<details>
+  <summary><h2>Volunteering</h2></summary>
+    
+### Mentor @Women in Tech Academy (SistersLab) (10.2022 - Present)
+- Science and Technology
+
+### Co-Founder & Tech Responsible @beppo (08.2022 - Present)
+- Environment
+
+### Co-Founder & Tech Responsible @Handmade by Isilti (03.2021 - Present)
+- Science and Technology   
+
+### Volunteer @Türk Kızılay (01.2013 - Present)
+- Disaster and Humanitarian Relief
+
+### Volunteer @TEMA (01.2014 - Present)
+- Environment
+
+### Volunteer @Oy ve Ötesi (06.2015 - Present)
+- Politics
+
+### Volunteer @AFAD (01.2019 - Present)
+- Disaster and Humanitarian Relief
+
+### Co-Founder & Tech Responsible @Otisen (10.2021 - 09.2022)
+- Science and Technology
+
+### Volunteer @Vefa Social Support Groups (04.2020 - 04.2021)
+- Disaster and Humanitarian Relief
+
+### Board Member @Y-Peer Türkiye (01.2017 - 09.2017)
+- Health
 
 </details>
 
