@@ -157,7 +157,7 @@ My responsibilities included lead for technical requirements, analyze research d
 </details>
 
 <details>
-  <summary><h2>Results</h2></summary>
+  <summary><h2>Test Scores</h2></summary>
     
 ### KPSS (2020)
 <a href="https://berkayvuran.com/assets/appendices/kpss.pdf" target="_blank" rel="noreferrer noopener">83.94/100.00</a>
