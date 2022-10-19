@@ -1,4 +1,20 @@
 <p align="Middle">
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/berkayvuran rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-5c6a2994-df35-4032-809f-1d1f41ab21f0' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >berkayvuran</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I am confident in project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development lifecycle (SDLC), product prototyping, user segmentation, tech & non-tech testing, design & product management tools and UML components. I can write effective SQL and JQL queries.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-5c6a2994-df35-4032-809f-1d1f41ab21f0' src='https://widgets.fiverr.com/api/v1/seller/berkayvuran?widget_id=5c6a2994-df35-4032-809f-1d1f41ab21f0' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
+
 <a href="https://twitter.com/vuranberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vuranberkay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkayvuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayvuran" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12813966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12813966" height="30" width="40" /></a>
