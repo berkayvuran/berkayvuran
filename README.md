@@ -97,6 +97,9 @@ My responsibilities included lead for technical requirements, analyze research d
 <details>
   <summary><h2>Licenses & Certifications</h2></summary>
 
+### C# (HackerRank) (2022)
+<a href="https://www.hackerrank.com/certificates/d1c2fb871068" target="_blank" rel="noreferrer noopener">Click Here</a>
+
 ### CSS (HackerRank) (2022)
 <a href="https://www.hackerrank.com/certificates/b9923a5d1a01" target="_blank" rel="noreferrer noopener">Click Here</a>
 
