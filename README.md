@@ -96,10 +96,13 @@ My responsibilities included lead for technical requirements, analyze research d
 
 <details>
   <summary><h2>Licenses & Certifications</h2></summary>
-    
+
 ### CSS (HackerRank) (2022)
 <a href="https://www.hackerrank.com/certificates/b9923a5d1a01" target="_blank" rel="noreferrer noopener">Click Here</a>
 
+### JavaScript (HackerRank) (2022)
+<a href="https://www.hackerrank.com/certificates/4c4cf78195a8" target="_blank" rel="noreferrer noopener">Click Here</a>
+  
 ### Professional Scrum Master™ I (2022)
 <a href="https://www.credly.com/badges/d21135e4-80ee-4c03-be13-6611aff304b3?source=linked_in_profile" target="_blank" rel="noreferrer noopener">Click Here</a>
 
