@@ -39,7 +39,7 @@ My responsibilities included lead technical & non-technical analysis (with Asana
 
 - Managed development process a fully-featured new product for ship & shop from Turkey to worldwide 'deliver.ist' in 3 months from ideation to production.
 
-- Desgined and implement the KPI reporting platform on AWS QuickSight in order to become a data oriented company. All data from sales, operations, marketing and product is aggregated and made transparent to the entire business.
+- Designed and implemented the KPI reporting platform on AWS QuickSight in order to become a data oriented company. All data from sales, operations, marketing and product is aggregated and made transparent to the entire business.
 
 - Managed user requirements about main and side products thats are express, freight, fulfillment, finance and marketing on Asana, Figma, Coda and Instagantt.
 
