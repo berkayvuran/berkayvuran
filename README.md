@@ -26,7 +26,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
   <summary><h2>Experience</h2></summary>
     
 ### Product Manager @Emlakjet (10.2022 - Present)
-My responsibilities include analyze and breakdown market problems into prioritized & deliverable stories, work with product and development teams to coordinate product strategy & release timelines & product quality, involve with all phases of SDLC, manage and prioritize product backlog, plan AB test scenarios on a monthly basis, schedule monthly user test scenarios, keep in touch with every stakeholder of the product regularly.
+My responsibilities include analyze and breakdown market problems into prioritized & deliverable stories, work with product and development teams to coordinate product strategy & release timelines & product quality, involve with all phases of SDLC, manage and prioritize product backlog, plan A/B test scenarios on a monthly basis, schedule monthly user test scenarios, keep in touch with every stakeholder of the product regularly.
 
 ### Product Owner @Navlungo (01.2022 - 09.2022)
 My responsibilities included lead technical & non-technical analysis (with Asana & Coda), create business intelligence reports (with AWS QuickSight & PostgreSQL), collect user requirements (with Asana), UX research and design (with Figma), conversion & funnel optimization (with Google Analytics & Hotjar), customer acquisition, retention and gamification activities (online & offline) with incredibly talented technology, marketing, product, operations and sales teams.
