@@ -51,7 +51,7 @@ My responsibilities included lead technical & non-technical analysis (with Asana
 My responsibilities included make technical & non-technical HLD and LLD analysis (with JIRA & Confluence), create UAT scenerios, UX research and design (with Balzamiq) for CRM transformation project developed by Etiya for biggest telco company of MENA, Ooredoo.
 
 ### Product Owner @Turkish Ministry Of Health (02.2019 - 11.2021)
-My responsibilities included lead technical & non-technical analysis (with JIRA & TFS & Confluence), create business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL), collect user requirements (online/offline), UX research and design (with Balzamiq) with bureaucrats, communication center managers, techincal leads and healthcare professionals.
+My responsibilities included lead technical & non-technical analysis (with JIRA & TFS & Confluence), create business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL), collect user requirements (online/offline), UX research and design (with Balzamiq) with bureaucrats, communication center managers, technical leads and healthcare professionals.
 
 - Led the technical call center architecture & UML diagrams of COVID-19 Hotline which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year.
 
