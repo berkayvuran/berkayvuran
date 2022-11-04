@@ -69,11 +69,6 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Gave training to more than 50 institutions such as MEV College and National Education Directorate, create internal communication structure
 - Researched about human-machine interface methods
 - Designed experimental psychology pathways for the academy with healthcare professionals
-
-Projects:
-- Game Type Computer Aided Cognitive Exercise Program (OBEP) Development Study for Alzheimer Type Dementia and Mild Cognitive Impairment
-- Investigation of Artwork Analysis Process in Individuals Related to Art at Different Levels by Eye Tracking Technique
-- Different Sources, Different Trajectories: A Three-Year Longitudinal Study of Academic Achievement as a Function of Adolescent's Class and Family Characteristics
   
 ### Assistant @Hacettepe University Scientific Research Unit (10.2015 - 06.2017)
 - Led technical requirements, software quality assurance and technical communication
