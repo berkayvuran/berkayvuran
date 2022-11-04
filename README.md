@@ -51,7 +51,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 
 ### Sr. Business Analyst @Etiya (11.2021 - 01.2022)
 - Led technical & non-technical HLD & LLD analysis (with JIRA & Confluence)
-- Created UAT scenarios, UX research & design (with Balzamiq) for CRM transformation project for biggest telco company of MENA, Ooredoo.
+- Created UAT scenarios, UX research & design (with Balzamiq) for CRM transformation project for biggest telco company of MENA, Ooredoo
 
 ### Product Owner @Turkish Ministry Of Health (02.2019 - 11.2021)
 - Led technical & non-technical analysis (with JIRA & TFS & Confluence)
