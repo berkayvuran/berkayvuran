@@ -93,22 +93,22 @@ Projects:
 ### Web Design and Development ASc @Anadolu University (2020 - 2022)
 - GPA: 3.08/4.00 (Honor Student) <a href="https://berkayvuran.com/assets/appendices/web.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
-  ### Neuropsychology MSc @Cankaya University (2019 - 2019)
+### Neuropsychology MSc @Cankaya University (2019 - 2019)
 - Drop Out
   
-  ### Neuroscience MSc @Osmangazi University (2018 - 2019)
+### Neuroscience MSc @Osmangazi University (2018 - 2019)
 - Drop Out
   
-  ### English Prep. School @Middle East Technical University (2017 - 2018)
+### English Prep. School @Middle East Technical University (2017 - 2018)
 - Level: B2 <a href="https://berkayvuran.com/assets/appendices/prep.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
- ### Experimental Psychology MSc @Hacettepe University (2017 - 2018)
+### Experimental Psychology MSc @Hacettepe University (2017 - 2018)
 - Drop Out
   
-  ### Sociology Minor @Hacettepe University (2014 - 2016)
+### Sociology Minor @Hacettepe University (2014 - 2016)
 - Drop Out
   
-  ### Psychology BSc @ Hacettepe University (2013 - 2017)
+### Psychology BSc @ Hacettepe University (2013 - 2017)
 - GPA: 3.55/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/psy.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 </details>
