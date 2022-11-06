@@ -84,10 +84,10 @@ Projects:
 <details>
   <summary><h2>Education</h2></summary>
     
-  ### Data and Knowledge Engineering MSc @Hacettepe University (2021 - 2022)
+### Data and Knowledge Engineering MSc @Hacettepe University (2021 - 2022)
 - Drop Out
   
-  ### Management and Organizational Behavior MSc @Hacettepe University (2019 - 2013)
+### Management and Organizational Behavior MSc @Hacettepe University (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/org.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 ### Web Design and Development ASc @Anadolu University (2020 - 2022)
