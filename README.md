@@ -84,16 +84,31 @@ Projects:
 <details>
   <summary><h2>Education</h2></summary>
     
-### Hacettepe University Management and Organizational Behavior MSc (2019 - 2013)
+  ### Data and Knowledge Engineering MSc @Hacettepe University (2021 - 2022)
+- Drop Out
+  
+  ### Management and Organizational Behavior MSc @Hacettepe University (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/org.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
-### Anadolu University Web Design and Development ASc (2020 - 2022)
+### Web Design and Development ASc @Anadolu University (2020 - 2022)
 - GPA: 3.08/4.00 (Honor Student) <a href="https://berkayvuran.com/assets/appendices/web.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
-### Middle East Technical University English Prep. School (2017 - 2018)
+  ### Neuropsychology MSc @Cankaya University (2019 - 2019)
+- Drop Out
+  
+  ### Neuroscience MSc @Osmangazi University (2018 - 2019)
+- Drop Out
+  
+  ### English Prep. School @Middle East Technical University (2017 - 2018)
 - Level: B2 <a href="https://berkayvuran.com/assets/appendices/prep.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
-### Hacettepe University Psychology BSc (2013 - 2017)
+ ### Experimental Psychology MSc @Hacettepe University (2017 - 2018)
+- Drop Out
+  
+  ### Sociology Minor @Hacettepe University (2014 - 2016)
+- Drop Out
+  
+  ### Psychology BSc @ Hacettepe University (2013 - 2017)
 - GPA: 3.55/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/psy.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 </details>
