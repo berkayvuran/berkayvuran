@@ -62,7 +62,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Crafted all of the user cases and scenarios of Meeting Point Web Application which aims to strengthen relationship between healthcare professionals and high level managers and it has approximately 100,000 users per year
 - Analyzed business & technical logics of Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year
 - Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 20,000 users per year
-- Designed all of the user cases & UML diagrams about health communication of Turkish Ministry of Health WhatsApp Hotline which aims to strenghten communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
+- Designed all of the user cases & UML diagrams about health communication of Turkish Ministry of Health WhatsApp Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
 
 ### Business Development Specialist @OZEM Academy (11.2017 - 02.2019)
 - Led marketing strategies for growth
