@@ -66,7 +66,8 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 
 ### Business Development Specialist @OZEM Academy (11.2017 - 02.2019)
 - Led marketing strategies for growth
-- Gave training to more than 50 institutions such as MEV College and National Education Directorate, create internal communication structure
+- Gave training to more than 50 institutions such as MEV College and National Education Directorate
+- Create internal communication structure
 - Researched about human-machine interface methods
 - Designed experimental psychology pathways for the academy with healthcare professionals
   
