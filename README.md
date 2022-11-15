@@ -33,7 +33,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Kept in touch with every stakeholder of the product regularly
 - Coordinated product strategy & release timelines & product quality with product and development teams
 
-### Product Owner @Navlungo (01.2022 - 09.2022)
+### Product Owner @Navlungo (01.2022 - 10.2022)
 - Led technical & non-technical analysis (with Asana & Coda)
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
@@ -49,10 +49,6 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Improved the growth & reducing churn strategies and manage relationship about usability of pathway between marketing & technology & design & product teams
 - Conducted user experience studies and lead user interface changes
 
-### Sr. Business Analyst @Etiya (11.2021 - 01.2022)
-- Led technical & non-technical HLD & LLD analysis (with JIRA & Confluence)
-- Created UAT scenarios, UX research & design (with Balzamiq) for CRM transformation project for biggest telco company of MENA, Ooredoo
-
 ### Product Owner @Turkish Ministry Of Health (02.2019 - 11.2021)
 - Led technical & non-technical analysis (with JIRA & TFS & Confluence)
 - Created business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL)
@@ -64,51 +60,26 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 20,000 users per year
 - Designed all of the user cases & UML diagrams about health communication of Turkish Ministry of Health WhatsApp Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
 
-### Business Development Specialist @OZEM Academy (11.2017 - 02.2019)
+### Business Development Specialist @OZEM Academy (07.2017 - 02.2019)
 - Led marketing strategies for growth
 - Gave training to more than 50 institutions such as MEV College and National Education Directorate
 - Created internal communication structure
 - Researched about human-machine interface methods
 - Designed experimental psychology pathways for the academy with healthcare professionals
-  
-### Assistant @Hacettepe University Scientific Research Unit (10.2015 - 06.2017)
-- Led technical requirements, software quality assurance and technical communication
-- Analyzed research data for academic projects with Hacettepe University Psychology and Computer Education and Instructional Technology Departments, Bilkent University Graduate School of Education and TED University Psychology Department
-
-Projects:
-- Game Type Computer Aided Cognitive Exercise Program (OBEP) Development Study for Alzheimer Type Dementia and Mild Cognitive Impairment
-- Investigation of Artwork Analysis Process in Individuals Related to Art at Different Levels by Eye Tracking Technique
-- Different Sources, Different Trajectories: A Three-Year Longitudinal Study of Academic Achievement as a Function of Adolescent's Class and Family Characteristics
-
 </details>
 
 <details>
   <summary><h2>Education</h2></summary>
     
-### Data and Knowledge Engineering MSc @Hacettepe University (2021 - 2022)
-- Drop Out
-  
 ### Management and Organizational Behavior MSc @Hacettepe University (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/org.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 ### Web Design and Development ASc @Anadolu University (2020 - 2022)
 - GPA: 3.08/4.00 (Honor Student) <a href="https://berkayvuran.com/assets/appendices/web.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
-### Neuropsychology MSc @Cankaya University (2019 - 2019)
-- Drop Out
-  
-### Neuroscience MSc @Osmangazi University (2018 - 2019)
-- Drop Out
-  
 ### English Prep. School @Middle East Technical University (2017 - 2018)
 - Level: B2 <a href="https://berkayvuran.com/assets/appendices/prep.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
-### Experimental Psychology MSc @Hacettepe University (2017 - 2018)
-- Drop Out
-  
-### Sociology Minor @Hacettepe University (2014 - 2016)
-- Drop Out
-  
 ### Psychology BSc @ Hacettepe University (2013 - 2017)
 - GPA: 3.55/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/psy.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
