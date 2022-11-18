@@ -33,7 +33,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Kept in touch with every stakeholder of the product regularly
 - Coordinated product strategy & release timelines & product quality with product and development teams
 
-### Product Owner @Navlungo (2022 - 2022)
+### Product Owner @Navlungo (2021 - 2022)
 - Led technical & non-technical analysis (with Asana & Coda)
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
