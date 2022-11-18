@@ -114,9 +114,6 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 <details>
   <summary><h2>Volunteering</h2></summary>
     
-### Mentor @Women in Tech Academy (SistersLab) (10.2022 - Present)
-- Science and Technology
-
 ### Co-Founder & Tech Responsible @beppo (08.2022 - Present)
 - Environment
 
@@ -134,6 +131,9 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 
 ### Volunteer @AFAD (01.2019 - Present)
 - Disaster and Humanitarian Relief
+
+### Mentor @Women in Tech Academy (SistersLab) (10.2022 - 11.2022)
+- Science and Technology
 
 ### Co-Founder & Tech Responsible @Otisen (10.2021 - 09.2022)
 - Science and Technology
