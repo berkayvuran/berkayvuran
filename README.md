@@ -53,7 +53,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Led technical & non-technical analysis (with JIRA & TFS & Confluence)
 - Created business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL)
 - Collected user requirements (online/offline)
-- UX researched & designed (with Balzamiq & Figma) with bureaucrats, communication center managers, technical leads and healthcare professionals
+- UX researched & designed (with Balsamiq & Figma) with bureaucrats, communication center managers, technical leads and healthcare professionals
 - Led the technical call center architecture & UML diagrams of COVID-19 Hotline which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year
 - Crafted all of the user cases and scenarios of Meeting Point Web Application which aims to strengthen relationship between healthcare professionals and high level managers and it has approximately 100,000 users per year
 - Analyzed business & technical logics of Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year
