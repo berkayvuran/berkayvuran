@@ -25,7 +25,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 <details>
   <summary><h2>Experience</h2></summary>
     
-### Product Manager @Emlakjet (2022 - Present)
+### Product Manager @Emlakjet (10/2022 - Present)
 - Analyzed market problems into prioritized & deliverable stories
 - Involved with all phases of software development live cycle (SDLC)
 - Managed and prioritized product backlog
@@ -33,7 +33,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Kept in touch with every stakeholder of the product regularly
 - Coordinated product strategy & release timelines & product quality with product and development teams
 
-### Product Owner @Navlungo (2021 - 2022)
+### Product Owner @Navlungo (01/2022 - 10/2022)
 - Led technical & non-technical analysis (with Asana & Coda)
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
@@ -49,7 +49,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Improved the growth & reducing churn strategies and manage relationship about usability of pathway between marketing & technology & design & product teams
 - Conducted user experience studies and lead user interface changes
 
-### Product Owner @Turkish Ministry Of Health (2019 - 2021)
+### Product Owner @Turkish Ministry Of Health (02/2019 - 11/2021)
 - Led technical & non-technical analysis (with JIRA & TFS & Confluence)
 - Created business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL)
 - Collected user requirements (online/offline)
@@ -60,7 +60,7 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 20,000 users per year
 - Designed all of the user cases & UML diagrams about health communication of Turkish Ministry of Health WhatsApp Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
 
-### Business Development Specialist @OZEM Academy (2017 - 2019)
+### Business Development Specialist @OZEM Academy (07/2017 - 02/2019)
 - Led marketing strategies for growth
 - Gave training to more than 50 institutions such as MEV College and National Education Directorate
 - Created internal communication structure
