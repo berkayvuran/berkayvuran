@@ -26,9 +26,9 @@ I am most skilled in *Product Management* and *Brew Coffee*.
   <summary><h2>Experience</h2></summary>
     
 ### Product Manager @Emlakjet (10/2022 - Present)
-- Analyzed market problems into prioritized & deliverable stories
-- Involved with all phases of software development live cycle (SDLC)
-- Managed and prioritized product backlog
+- Analyzed market problems into prioritized & deliverable stories for no2 vertical property marketplace
+- Involved with all phases of software development live cycle from 0 to 100
+- Managed and prioritized product backlog for bare minimum perfection that is 99.9%
 - Planned A/B test scenarios
 - Kept in touch with every stakeholder of the product regularly
 - Coordinated product strategy & release timelines & product quality with product and development teams
@@ -38,12 +38,12 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
 - UX researched & designed (with Figma)
-- Conversion & funnel optimization (with Google Analytics & Hotjar)
+- Conversion & funnel optimization (with Google Analytics & Hotjar) for zero churn and 1000% retention
 - Customer acquisition, retention & gamification activities (online & offline) with technology, marketing, product, operations and sales teams
-- Reached more than 70,000 customers, 1,000,000 transactions, 3 service area continent, 230 country
+- Navlungo reached more than 70,000 customers, 1,000,000 transactions, 3 service area continent, 230 country
 - Increased overall sales volume more than 150%
 - Analyzed business & technical logics of 'navlungo.com' which aims to digitize logistics end-to-end
-- Managed development process a fully-featured new product for ship & shop from Turkey to worldwide 'deliver.ist' in 3 months from ideation to production
+- Directed development process a fully-featured new product for ship & shop from Turkey to worldwide 'deliver.ist' in 3 months from ideation to production
 - Designed and implemented the KPI reporting platform on AWS QuickSight in order to become a data oriented company. All data from sales, operations, marketing and product is aggregated and made transparent to the entire business
 - Managed user requirements about main and side products thats are express, freight, fulfillment, finance and marketing on Asana, Figma, Coda and Instagantt
 - Improved the growth & reducing churn strategies and manage relationship about usability of pathway between marketing & technology & design & product teams
@@ -56,13 +56,13 @@ I am most skilled in *Product Management* and *Brew Coffee*.
 - UX researched & designed (with Balsamiq & Figma) with bureaucrats, communication center managers, technical leads and healthcare professionals
 - Led the technical call center architecture & UML diagrams of COVID-19 Hotline which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year
 - Crafted all of the user cases and scenarios of Meeting Point Web Application which aims to strengthen relationship between healthcare professionals and high level managers and it has approximately 100,000 users per year
-- Analyzed business & technical logics of Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year
+- Organized business & technical logics of Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year
 - Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 20,000 users per year
 - Designed all of the user cases & UML diagrams about health communication of Turkish Ministry of Health WhatsApp Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
 
 ### Business Development Specialist @OZEM Academy (07/2017 - 02/2019)
-- Led marketing strategies for growth
-- Gave training to more than 50 institutions such as MEV College and National Education Directorate
+- Conducted growth strategies that x2 the number of employees and x3 the profitability
+- Educated more than 50 institutions such as MEV College and National Education Directorate
 - Created internal communication structure
 - Researched about human-machine interface methods
 - Designed experimental psychology pathways for the academy with healthcare professionals
