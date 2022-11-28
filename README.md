@@ -36,7 +36,7 @@ Most skilled in *Product Management* and *Brew Coffee*.
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
 - UX researched & designed (with Figma)
-- Conversion & funnel optimization (with Google Analytics & Hotjar) for zero churn and 1000% retention
+- Conversion & funnel optimization (with Google Analytics & Hotjar) for zero churn and 100% retention
 - Customer acquisition, retention & gamification activities (online & offline) with technology, marketing, product, operations and sales teams
 - Navlungo reached more than 70,000 customers, 1,000,000 transactions, 3 service area continent, 230 country
 - Increased overall sales volume more than 150%
