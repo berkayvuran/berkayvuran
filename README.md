@@ -24,7 +24,7 @@ Most skilled in *Product Management* and *Brew Coffee*.
   <summary><h2>Experience</h2></summary>
     
 ### Product Manager @Emlakjet (10/2022 - Present)
-- Analyzed market problems into prioritized & deliverable stories for no2 vertical property marketplace
+- Analyzed market problems into prioritized & deliverable stories for no1 vertical property marketplace
 - Involved with all phases of software development life cycle (SDLC) from 0 to 100
 - Managed and prioritized product backlog for bare minimum perfection that is 99.9%
 - Planned A/B test scenarios
