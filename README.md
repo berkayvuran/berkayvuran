@@ -13,7 +13,7 @@
 <br>
 <p align="Middle"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-PSPO™-I and PSM™-I owner, PMP candidate. Psychologist and organizational behavior specialist (thesis stage) from Hacettepe University. Take a role of project manager (for 2 projects) & product manager (for 3 core products) & product owner (for 5 core products) according to the project/product management approach in different organizational climates and in different sectors more then 5 years. Confident in project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development life cycle, prototyping, user segmentation, tech and non-tech testing, design and product management tools. Can write effective SQL queries.
+PSPO™-I & PSM™-I owner, PMP candidate. Psychologist & organizational behavior specialist (thesis stage) from Hacettepe University. Take the role of a project manager (for 2 projects) & product manager (for 3 core products) & product owner (for 5 core products) according to the project/product management approach in different organizational climates and other sectors for more than 5 years. Confident in project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development life cycle, prototyping, user segmentation, tech & non-tech testing, design, and product management tools. Can write effective SQL queries.
 
 Most skilled in *Product Management* and *Brew Coffee*.
 
@@ -24,9 +24,9 @@ Most skilled in *Product Management* and *Brew Coffee*.
   <summary><h2>Experience</h2></summary>
     
 ### Product Manager @Emlakjet (10/2022 - Present)
-- Analyzed market problems into prioritized & deliverable stories for no1 proptech company in Türkiye
+- Analyzed market problems into prioritized & deliverable stories for the no1 proptech company in Türkiye
 - Involved with all phases of software development life cycle (SDLC) from 0 to 100
-- Managed and prioritized product backlog for bare minimum perfection that is 99.9%
+- Managed and prioritized product backlog for bare minimum perfection which is 99.9%
 - Planned A/B test scenarios
 - Kept in touch with every stakeholder of the product regularly
 - Coordinated product strategy & release timelines & product quality with product and development teams
@@ -36,33 +36,33 @@ Most skilled in *Product Management* and *Brew Coffee*.
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
 - UX researched & designed (with Figma)
-- Conversion & funnel optimization (with Google Analytics & Hotjar) for zero churn and 100% retention
-- Customer acquisition, retention & gamification activities (online & offline) with technology, marketing, product, operations and sales teams
-- Navlungo reached more than 70,000 customers, 1,000,000 transactions, 3 service area continent, 230 country
-- Increased overall sales volume more than 150%
+- Conversion & funnel optimization (with Google Analytics & Hotjar) for zero churns and 100% retention
+- Customer acquisition, retention & gamification activities (online & offline) with technology, marketing, product, operations, and sales teams
+- Navlungo reached more than 70,000 customers, 1,000,000 transactions, 3 service area continents, and 230 countries
+- Increased overall sales volume by more than 150%
 - Analyzed business & technical logics of 'navlungo.com' which aims to digitize logistics end-to-end
-- Directed development process a fully-featured new product for ship & shop from Turkey to worldwide 'deliver.ist' in 3 months from ideation to production
-- Designed and implemented the KPI reporting platform on AWS QuickSight in order to become a data oriented company. All data from sales, operations, marketing and product is aggregated and made transparent to the entire business
-- Managed user requirements about main and side products thats are express, freight, fulfillment, finance and marketing on Asana, Figma, Coda and Instagantt
-- Improved the growth & reducing churn strategies and manage relationship about usability of pathway between marketing & technology & design & product teams
+- Directed development process of a fully-featured new product for ship & shop from Turkey to worldwide 'deliver.ist' in 3 months from ideation to production
+- Designed and implemented the KPI reporting platform on AWS QuickSight in order to become a data-oriented company. All data from sales, operations, marketing, and product is aggregated and made transparent to the entire business
+- Managed user requirements about main and side products that are express, freight, fulfillment, finance, and marketing on Asana, Figma, Coda, and Instagantt
+- Improved the growth & reducing churn strategies and manage relationships about the usability of the pathway between marketing & technology & design & product teams
 - Conducted user experience studies and lead user interface changes
 
 ### Product Owner @Turkish Ministry Of Health (02/2019 - 11/2021)
 - Led technical & non-technical analysis (with JIRA & TFS & Confluence)
 - Created business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL)
 - Collected user requirements (online/offline)
-- UX researched & designed (with Balsamiq & Figma) with bureaucrats, communication center managers, technical leads and healthcare professionals
-- Led the technical call center architecture & UML diagrams of COVID-19 Hotline which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year
-- Crafted all of the user cases and scenarios of Meeting Point Web Application which aims to strengthen relationship between healthcare professionals and high level managers and it has approximately 100,000 users per year
-- Organized business & technical logics of Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year
+- UX researched & designed (with Balsamiq & Figma) with bureaucrats, communication center managers, technical leads, and healthcare professionals
+- Led the technical call center architecture & UML diagrams of the COVID-19 Hotline which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year
+- Crafted all of the user cases and scenarios of the Meeting Point Web Application which aims to strengthen relationships between healthcare professionals and high-level managers and it has approximately 100,000 users per year
+- Organized business & technical logics of the Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year
 - Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 20,000 users per year
-- Designed all of the user cases & UML diagrams about health communication of Turkish Ministry of Health WhatsApp Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
+- Designed all of the user cases & UML diagrams about health communication of the Turkish Ministry of Health WhatsApp Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
 
 ### Business Development Specialist @OZEM Academy (07/2017 - 02/2019)
 - Conducted growth strategies that x2 the number of employees and x3 the profitability
 - Educated more than 50 institutions such as MEV College and National Education Directorate
-- Created internal communication structure
-- Researched about human-machine interface methods
+- Created an internal communication structure
+- Researched human-machine interface methods
 - Designed experimental psychology pathways for the academy with healthcare professionals
 </details>
 
