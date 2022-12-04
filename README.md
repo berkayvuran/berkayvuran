@@ -180,3 +180,5 @@ Most skilled in *Product Management* and *Brew Coffee*.
 <br><br><br><br><br>
 
 <hr>
+
+<a href="https://app.daily.dev/berkayvuran"><img src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" width="400" alt="Berkay Vuran's Dev Card"/></a>
