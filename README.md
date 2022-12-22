@@ -60,14 +60,23 @@ Most skilled in *Product Management* and *Brew Coffee*. </p>
 - Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 20,000 users per year
 - Designed all of the user cases & UML diagrams about health communication of the Turkish Ministry of Health WhatsApp Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 10,000 users per year
 
-### Business Development Specialist @OZEM Academy (07/2017 - 02/2019)
+### Business Development Specialist @OZEM Academy (10/2015 - 06/2017)
 - Conducted growth strategies that x2 the number of employees and x3 the profitability
 - Educated more than 50 institutions such as MEV College and National Education Directorate
 - Created an internal communication structure
 - Researched human-machine interface methods
 - Designed experimental psychology pathways for the academy with healthcare professionals
-</details>
 
+### Project Assistant @Hacettepe University Scientific Research Unit (07/2017 - 02/2019)
+- Worked as an assistant on these academic projects & product developments:
+- Game Type Computer Aided Cognitive Exercise Program (OBEP) Development Study for Alzheimer Type Dementia and Mild Cognitive Impairment (with Ankara University Faculty of Medicine)
+- Investigation of Artwork Analysis Process in Individuals Related to Art at Different Levels by Eye Tracking Technique (with Hacettepe University Faculty of Fine Arts)
+- Different Sources, Different Trajectories: A Three-Year Longitudinal Study of Academic Achievement as a Function of Adolescent's Class and Family Characteristics (with Bilkent University Faculty of Education)
+
+### Radio Programmer @87.7 Radio Hacettepe (12/2013 - 01/2015)
+- Wrote the scrips of the programs in 87.7 Radyo Hacettepe
+- Conducted studies to improve sound recording systems and sound waves
+- Organized some events in cooperation with various institutions such as RedBull, CCI
 <details>
   <summary><h2>Education</h2></summary>
     
