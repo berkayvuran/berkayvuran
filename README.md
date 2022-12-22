@@ -77,6 +77,8 @@ Most skilled in *Product Management* and *Brew Coffee*. </p>
 - Wrote the scrips of the programs in 87.7 Radyo Hacettepe
 - Conducted studies to improve sound recording systems and sound waves
 - Organized some events in cooperation with various institutions such as RedBull, CCI
+  </details>
+  
 <details>
   <summary><h2>Education</h2></summary>
     
