@@ -15,10 +15,17 @@
 
 <p align="Middle"> <a href="https://app.daily.dev/berkayvuran"><img src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" width="300" alt="Berkay Vuran's Dev Card"/></a>
 
-PSPO™-I & PSM™-I owner, PMP candidate. Psychologist & organizational behavior specialist (thesis stage) from Hacettepe University. Take the role of a project manager (for 2 projects) & product manager (for 3 core products) & product owner (for 5 core products) according to the project/product management approach in different organizational climates and other sectors for more than 5 years. Confident in project management, product management, diversity management, technical requirements, refinement, user experience, business intelligence, competitive intelligence, relational coordination, end-to-end software development life cycle, prototyping, user segmentation, tech & non-tech testing, design, and product management tools. Can write effective SQL queries.
+I am an accomplished and highly skilled product manager, business analyst, and project manager with a strong educational background in psychology and organizational behavior. My diverse professional experience has allowed me to develop a wide range of skills and expertise in various industries, including proptech, logistics, and healthcare.
 
-Most skilled in *Product Management* and *Brew Coffee*. </p>
-
+As a product manager at Emlakjet, I have played a key role in analyzing market problems and translating them into actionable and deliverable stories for the company. I have also been actively involved in all phases of the software development life cycle and have demonstrated strong abilities in managing and prioritizing product backlogs. In my previous role at Navlungo, I was responsible for conducting UX research and design, optimizing conversion and funnel performance, and managing customer acquisition and retention efforts. I also successfully directed the development of a fully-featured new product in just three months.
+  
+As a business analyst at Navlungo, I led technical and non-technical analyses and created comprehensive business intelligence reports. I also collected and analyzed user requirements, as well as examined the business and technical logics of the company's website. At Etiya, I performed technical and non-technical high-level and low-level analyses and developed detailed UAT scenarios.
+  
+In my role at the Turkish Ministry of Health, I played a pivotal role in leading the development of the technical architecture and UML diagrams for a COVID-19 hotline and crafting user cases and scenarios for a meeting point web application. I also organized the business and technical logics of a health survey web application and created comprehensive user requirements for several health communication projects. As a business analyst at the ministry, I conducted extensive market research and analyzed customer needs, as well as developed comprehensive business plans and presentations.
+  
+I am a PSPO-I and PSM-I owner and am currently a PMP candidate. My strong educational background and diverse professional experience have equipped me with the skills and expertise necessary to effectively lead and manage projects, as well as analyze and understand market and customer needs. I am confident in my ability to make significant contributions to any organization.
+  
+ps: Written entirely by ChatGPT on January 8, 2022.
 -----
 <h1 align="Middle">Resume</h1>
 
@@ -36,7 +43,7 @@ Most skilled in *Product Management* and *Brew Coffee*. </p>
 - For B2B users, increased sum of commission from ~1.5B ₺ to ~3.5B ₺ (237%) commission/realtor from ~12K ₺ to ~27K ₺ (128%), phone call from ~4M to 6M (54%) message from ~1.7M to ~3.4M (97%)
 - For our solutions, reached total user of Jetsat (iBuying) is 14K, Arsa Sihirbazı (an AI/ML powered module for instant land valuation) is 26K, Jetfırsatlar (opportunity real estates that are most suitable for investment) is 70K
 
-### Product Owner @Navlungo (01/2022 - 10/2022)
+### Business Analyst & Product Owner @Navlungo (01/2022 - 10/2022)
 - Led technical & non-technical analysis (with Asana & Coda)
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
@@ -52,7 +59,13 @@ Most skilled in *Product Management* and *Brew Coffee*. </p>
 - Improved the growth & reducing churn strategies and manage relationships about the usability of the pathway between marketing & technology & design & product teams
 - Conducted user experience studies and lead user interface changes
 
-### Product Owner @Turkish Ministry Of Health (02/2019 - 11/2021)
+### Senior Specialist, Business Analysis @Etiya (11/2021 - 01/2022)
+For CRM transformation project developed for biggest telco company of MENA, Ooredoo;
+- Made technical & non technical HLD & LLD analysis (with Jira & Confluence)
+- Created UAT scenarios
+- Led UX research & design
+  
+### Business Analyst & Product Owner @Turkish Ministry Of Health (02/2019 - 11/2021)
 - Led technical & non-technical analysis (with JIRA & TFS & Confluence)
 - Created business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL)
 - Collected user requirements (online/offline)
@@ -84,6 +97,8 @@ Most skilled in *Product Management* and *Brew Coffee*. </p>
   
 <details>
   <summary><h2>Education</h2></summary>
+  
+### Data and Knowledge Engineering MSc @Hacettepe University (2021)
     
 ### Management and Organizational Behavior MSc @Hacettepe University (2019 - 2013)
 - GPA: 3.86/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/org.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
