@@ -61,7 +61,7 @@ ps: Written entirely by ChatGPT on January 8, 2022.
 - Conducted user experience studies and lead user interface changes
 
 ### Senior Specialist, Business Analysis @Etiya (11/2021 - 01/2022)
-For CRM transformation project developed for biggest telco company of MENA, Ooredoo;
+- For CRM transformation project developed for biggest telco company of MENA, Ooredoo;
 - Made technical & non technical HLD & LLD analysis (with Jira & Confluence)
 - Created UAT scenarios
 - Led UX research & design
