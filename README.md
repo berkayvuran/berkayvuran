@@ -25,7 +25,8 @@ In my role at the Turkish Ministry of Health, I played a pivotal role in leading
   
 I am a PSPO-I and PSM-I owner and am currently a PMP candidate. My strong educational background and diverse professional experience have equipped me with the skills and expertise necessary to effectively lead and manage projects, as well as analyze and understand market and customer needs. I am confident in my ability to make significant contributions to any organization.
   
-ps: Written entirely by ChatGPT on January 8, 2022.
+- ps: Written entirely by ChatGPT on January 8, 2022.
+
 -----
 <h1 align="Middle">Resume</h1>
 
