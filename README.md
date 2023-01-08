@@ -32,28 +32,9 @@ Most skilled in *Product Management* and *Brew Coffee*. </p>
 - Planned A/B test scenarios
 - Kept in touch with every stakeholder of the product regularly
 - Coordinated product strategy & release timelines & product quality with product and development teams
-- On emlakjet.com in 2022, increased number of
-{
-B2C users from ~35M to ~45M (38%),
-B2B users from ~20K to ~30K (53%),
-page views from ~110M to 180M (62%),
-listings from ~1.1M to ~1.9M (67%).
-}
-
-- For B2B users, increased sum of
-{
-commission from ~1.5B ₺ to ~3.5B ₺ (237%),
-commission/realtor from ~12K ₺ to ~27K ₺ (128%),
-phone call from ~4M to 6M (54%),
-message from ~1.7M to ~3.4M (97%).
-}
-
-- For our solutions, reached total user of
-{
-Jetsat (iBuying) is 14K,
-Arsa Sihirbazı (an AI/ML powered module for instant land valuation) is 26K,
-Jetfırsatlar (opportunity real estates that are most suitable for investment) is 70K.
-}
+- On emlakjet.com in 2022, increased number of B2C users from ~35M to ~45M (38%), B2B users from ~20K to ~30K (53%), page views from ~110M to 180M (62%), listings from ~1.1M to ~1.9M (67%)
+- For B2B users, increased sum of commission from ~1.5B ₺ to ~3.5B ₺ (237%) commission/realtor from ~12K ₺ to ~27K ₺ (128%), phone call from ~4M to 6M (54%) message from ~1.7M to ~3.4M (97%)
+- For our solutions, reached total user of Jetsat (iBuying) is 14K, Arsa Sihirbazı (an AI/ML powered module for instant land valuation) is 26K, Jetfırsatlar (opportunity real estates that are most suitable for investment) is 70K.
 
 ### Product Owner @Navlungo (01/2022 - 10/2022)
 - Led technical & non-technical analysis (with Asana & Coda)
