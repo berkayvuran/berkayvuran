@@ -112,6 +112,9 @@ ps: Written entirely by ChatGPT on January 8, 2023.
 
 ### Psychology BSc @ Hacettepe University (2013 - 2017)
 - GPA: 3.55/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/psy.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
+  
+### Sociology Minor @ Hacettepe University (2015 - 2017)
+- Drop Out <a href="https://berkayvuran.com/assets/appendices/soci.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 </details>
 
