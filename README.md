@@ -143,7 +143,7 @@ ps: Written entirely by ChatGPT on January 8, 2023.
 <details>
   <summary><h2>Volunteering</h2></summary>
     
-### Product Manager @Afetharita (AYA - Açık Yazılım Ağı) (02.2023 - Present)
+### Product Manager @Afetharita (AYA: Açık Yazılım Ağı) (02.2023 - Present)
 - Science and Technology
   
 ### Mentor @Woman in Tech Academy (Sisterslab) (10.2022 - Present)
