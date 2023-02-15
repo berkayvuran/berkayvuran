@@ -67,7 +67,7 @@ ps: Written entirely by ChatGPT on January 8, 2023.
 - Created business intelligence reports (with Microsoft Power BI & Turboard SINA & MSSQL Server & PostgreSQL & PL/SQL)
 - Collected user requirements (online/offline)
 - UX researched & designed (with Balsamiq & Figma) with bureaucrats, communication center managers, technical leads, and healthcare professionals
-- Led the technical call center architecture & UML diagrams of the COVID-19 Hotline which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year
+- Led the technical call center architecture & UML diagrams of the ALO184 SABİM which aims to strengthen communication between patients and healthcare professionals and it has approximately 6,000,000 users per year
 - Crafted all of the user cases and scenarios of the Meeting Point Web Application which aims to strengthen relationships between healthcare professionals and high-level managers and it has approximately 100,000 users per year
 - Organized business & technical logics of the Health Survey Web Application which aims to collect data from patients and healthcare professionals and it has approximately 40,000 users per year
 - Created user requirements about health communication of Turkcell BiP Ministry of Health COVID-19 Information & 24/7 Hotline which aims to strengthen communication between patients and healthcare professionals and it was (currently deactivate) approximately 20,000 users per year
