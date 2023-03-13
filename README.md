@@ -40,7 +40,7 @@ ps: Written entirely by ChatGPT on January 8, 2023.
 - For B2B users, increased sum of commission from ~1.5B ₺ to ~3.5B ₺ (237%) commission/realtor from ~12K ₺ to ~27K ₺ (128%), phone call from ~4M to 6M (54%) message from ~1.7M to ~3.4M (97%)
 - For our solutions, reached total user of Jetsat (iBuying) is 14K, Arsa Sihirbazı (an AI/ML powered module for instant land valuation) is 26K, Jetfırsatlar (opportunity real estates that are most suitable for investment) is 70K
 
-### Business Analyst & Product Owner @Navlungo (01/2022 - 10/2022)
+### Product Owner @Navlungo (01/2022 - 10/2022)
 - Led technical & non-technical analysis (with Asana & Coda)
 - Created business intelligence reports (with AWS QuickSight & PostgreSQL)
 - Collected user requirements (with Asana)
