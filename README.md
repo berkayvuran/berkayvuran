@@ -11,17 +11,19 @@
 
 <p align="Middle"> <a href="https://app.daily.dev/berkayvuran"><img src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" width="300" alt="Berkay Vuran's Dev Card"/></a>
 
-I am an accomplished and highly skilled product manager, business analyst, and project manager with a strong educational background in psychology and organizational behavior. My diverse professional experience has allowed me to develop a wide range of skills and expertise in various industries, including proptech, logistics, and healthcare.
+I am a highly motivated and dedicated professional with a diverse educational background and extensive experience in the technology industry. As a certified Professional Scrum Product Owner™ (PSPO™-I) and Professional Scrum Master™ (PSM™-I) owner, and a candidate for the Project Management Professional (PMP) certification, I possess a strong foundation in product management and agile methodologies.
 
-As a product manager at Emlakjet, I have played a key role in analyzing market problems and translating them into actionable and deliverable stories for the company. I have also been actively involved in all phases of the software development life cycle and have demonstrated strong abilities in managing and prioritizing product backlogs. In my previous role at Navlungo, I was responsible for conducting UX research and design, optimizing conversion and funnel performance, and managing customer acquisition and retention efforts. I also successfully directed the development of a fully-featured new product in just three months.
-  
-As a business analyst at Navlungo, I led technical and non-technical analyses and created comprehensive business intelligence reports. I also collected and analyzed user requirements, as well as examined the business and technical logics of the company's website. At Etiya, I performed technical and non-technical high-level and low-level analyses and developed detailed UAT scenarios.
-  
-In my role at the Turkish Ministry of Health, I played a pivotal role in leading the development of the technical architecture and UML diagrams for a COVID-19 hotline and crafting user cases and scenarios for a meeting point web application. I also organized the business and technical logics of a health survey web application and created comprehensive user requirements for several health communication projects. As a business analyst at the ministry, I conducted extensive market research and analyzed customer needs, as well as developed comprehensive business plans and presentations.
-  
-I am a PSPO-I and PSM-I owner and am currently a PMP candidate. My strong educational background and diverse professional experience have equipped me with the skills and expertise necessary to effectively lead and manage projects, as well as analyze and understand market and customer needs. I am confident in my ability to make significant contributions to any organization.
-  
-ps: Written entirely by ChatGPT on January 8, 2023.
+I obtained a Bachelor of Science degree in Psychology in 2017, and I am currently a candidate for an Organizational Behavior master's degree at Hacettepe University. Over the course of my career, I have gained valuable experience in various roles, including Product Manager, Product Owner, and Business Analyst, among others.
+
+In my current position as a Product Manager at Emlakjet, I am responsible for analyzing market problems and translating them into actionable stories for the leading proptech company in Turkey. I am involved in all phases of the software development life cycle, managing and prioritizing the product backlog and planning A/B test scenarios. Additionally, I coordinate product strategy, release timelines, and product quality with the product and development teams while keeping in regular contact with all stakeholders.
+
+Prior to this, I served as a Product Owner at Navlungo, where I oversaw UX research and design, conversion and funnel optimization, customer acquisition and retention activities, and managed user requirements for a variety of products. During my time at Navlungo, I directed the development of a fully-featured new product (MVP) from ideation to production in just three months, increasing overall sales volume by more than 150%.
+
+As a Business Analyst & Product Owner at the Turkish Ministry of Health, I played a crucial role in analyzing business and technical logic and designing and implementing KPI reporting platforms to make the organization more data-oriented. I also led technical and non-technical analyses and created business intelligence reports, among other responsibilities.
+
+Throughout my career, I have demonstrated an ability to work collaboratively with cross-functional teams and manage projects from ideation to production, always with a focus on meeting or exceeding customer expectations. I am passionate about utilizing my skills and experience to drive innovation and positive change within organizations, and I am always eager to take on new challenges and expand my knowledge and expertise.
+
+ps: Written entirely by ChatGPT on March 15, 2023.
 
 -----
 <h1 align="Middle">Resume</h1>
@@ -36,9 +38,39 @@ ps: Written entirely by ChatGPT on January 8, 2023.
 - Planned A/B test scenarios
 - Kept in touch with every stakeholder of the product regularly
 - Coordinated product strategy & release timelines & product quality with product and development teams
-- On emlakjet.com in 2022, increased number of B2C users from ~35M to ~45M (38%), B2B users from ~20K to ~30K (53%), page views from ~110M to 180M (62%), listings from ~1.1M to ~1.9M (67%)
-- For B2B users, increased sum of commission from ~1.5B ₺ to ~3.5B ₺ (237%) commission/realtor from ~12K ₺ to ~27K ₺ (128%), phone call from ~4M to 6M (54%) message from ~1.7M to ~3.4M (97%)
-- For our solutions, reached total user of Jetsat (iBuying) is 14K, Arsa Sihirbazı (an AI/ML powered module for instant land valuation) is 26K, Jetfırsatlar (opportunity real estates that are most suitable for investment) is 70K
+
+- On emlakjet.com in 2022, increased number of
+{
+B2C users from ~35M to ~45M (38%),
+B2B users from ~20K to ~30K (53%),
+page views from ~110M to 180M (62%),
+listings from ~1.1M to ~1.9M (67%).
+}
+
+- For B2B users, increased sum of
+{
+commission from ~1.5B ₺ to ~3.5B ₺ (237%),
+commission/realtor from ~12K ₺ to ~27K ₺ (128%),
+phone call from ~4M to 6M (54%),
+message from ~1.7M to ~3.4M (97%).
+}
+
+- For our solutions, reached the total users of
+{
+Jetsat (iBuying) is 14K,
+Arsa Sihirbazı (an AI/ML-powered module for instant land valuation) is 26K,
+Jetfırsatlar (opportunity real estate that is most suitable for investment) is 70K.
+}
+
+Emlakjet is part of iLab Ventures. Other iLab companies include:
+
+- Kariyer.net - Turkey’s prominent recruitment marketplace and solutions site
+- Arabam.com - Turkey's no1 vertical car marketplace
+- Sigortam.net - Turkey’s leading online and call center-based insurance sales platform
+- Hangikredi.com - Turkey’s service comparison site for credit
+- Cimri.com - Turkey’s prominent price and product comparison site
+- Neredekal.com - Turkey’s leading travel guide site
+- SteelOrbis.com and ChemOrbis.com - Global B2B marketplaces for steel and polymer industries
 
 ### Product Owner @Navlungo (01/2022 - 10/2022)
 - Led technical & non-technical analysis (with Asana & Coda)
