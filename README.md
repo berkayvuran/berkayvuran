@@ -11,19 +11,25 @@
 
 <p align="Middle"> <a href="https://app.daily.dev/berkayvuran"><img src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" width="300" alt="Berkay Vuran's Dev Card"/></a>
 
-I am a highly motivated and dedicated professional with a diverse educational background and extensive experience in the technology industry. As a certified Professional Scrum Product Owner™ (PSPO™-I) and Professional Scrum Master™ (PSM™-I) owner, and a candidate for the Project Management Professional (PMP) certification, I possess a strong foundation in product management and agile methodologies.
+As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
 
-I obtained a Bachelor of Science degree in Psychology in 2017, and I am currently a candidate for an Organizational Behavior master's degree at Hacettepe University. Over the course of my career, I have gained valuable experience in various roles, including Product Manager, Product Owner, and Business Analyst, among others.
+Throughout my career, I have held various roles within the technology sector, including Product Owner, Business Analyst, and Product Manager. My experience spans diverse organizations, ranging from the Turkish Ministry of Health to leading technology companies like Etiya, Navlungo, and Emlakjet.
 
-In my current position as a Product Manager at Emlakjet, I am responsible for analyzing market problems and translating them into actionable stories for the leading proptech company in Turkey. I am involved in all phases of the software development life cycle, managing and prioritizing the product backlog and planning A/B test scenarios. Additionally, I coordinate product strategy, release timelines, and product quality with the product and development teams while keeping in regular contact with all stakeholders.
+Key highlights from my professional background include the following:
 
-Prior to this, I served as a Product Owner at Navlungo, where I oversaw UX research and design, conversion and funnel optimization, customer acquisition and retention activities, and managed user requirements for a variety of products. During my time at Navlungo, I directed the development of a fully-featured new product (MVP) from ideation to production in just three months, increasing overall sales volume by more than 150%.
+- Developing effective product strategies, creating user stories, and managing product backlogs for optimal results
+- Leading the technical call center architecture and UML diagrams for the COVID-19 Hotline, which reached approximately 6,000,000 users per year
+- Designing and implementing a KPI reporting platform on AWS QuickSight, resulting in a data-oriented company culture
+- Conducting user experience studies and leading user interface changes to enhance product usability
+- Successfully increasing sales volume by over 150% and delivering a fully-featured new product from ideation to production within three months
 
-As a Business Analyst & Product Owner at the Turkish Ministry of Health, I played a crucial role in analyzing business and technical logic and designing and implementing KPI reporting platforms to make the organization more data-oriented. I also led technical and non-technical analyses and created business intelligence reports, among other responsibilities.
+With an extensive background in UX research & design, business intelligence reporting, and project management, I have a proven track record of delivering value-driven solutions to meet the needs of various stakeholders. My ability to create meaningful connections between marketing, technology, design, and product teams has allowed me to consistently improve growth and reduce churn in the projects I have participated in.
 
-Throughout my career, I have demonstrated an ability to work collaboratively with cross-functional teams and manage projects from ideation to production, always with a focus on meeting or exceeding customer expectations. I am passionate about utilizing my skills and experience to drive innovation and positive change within organizations, and I am always eager to take on new challenges and expand my knowledge and expertise.
+Outside of the technology circle, I also have experience as a business development specialist, which has further honed my skills in communication and collaboration. Leveraging my diverse skill set, I aim to contribute to organizations that value innovation, efficiency, and a user-centric approach.
 
-ps: Written entirely by ChatGPT on March 15, 2023.
+Please feel free to reach out to me, as I am always eager to learn, share knowledge, and collaborate on exciting projects.
+
+ps: Written entirely by ChatGPT-4 on March 19, 2023.
 
 -----
 <h1 align="Middle">Resume</h1>
