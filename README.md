@@ -32,6 +32,9 @@ Please feel free to reach out to me, as I am always eager to learn, share knowle
 ps: Written entirely by ChatGPT-4 on March 19, 2023.
 
 -----
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p> 
 <h1 align="Middle">Resume</h1>
 
 <details>
@@ -246,9 +249,3 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 <a href="https://berkayvuran.com/assets/appendices/lys.pdf" target="_blank" rel="noreferrer noopener">899/725,672 (0.001%)</a>
   
 </details>
-
-<p align="center">
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p> 
-
-<hr>
