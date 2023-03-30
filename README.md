@@ -160,14 +160,17 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 <details>
   <summary><h2>Licenses & Certifications</h2></summary>
 
+### Angular (HackerRank) (2023)
+<a href="https://www.hackerrank.com/certificates/0207f1961ff6" target="_blank" rel="noreferrer noopener">Click Here</a>
+
+### JavaScript (HackerRank) (2023)
+<a href="https://www.hackerrank.com/certificates/2639d649fa7b" target="_blank" rel="noreferrer noopener">Click Here</a>  
+  
 ### C# (HackerRank) (2022)
 <a href="https://www.hackerrank.com/certificates/d1c2fb871068" target="_blank" rel="noreferrer noopener">Click Here</a>
-
+  
 ### CSS (HackerRank) (2022)
 <a href="https://www.hackerrank.com/certificates/b9923a5d1a01" target="_blank" rel="noreferrer noopener">Click Here</a>
-
-### JavaScript (HackerRank) (2022)
-<a href="https://www.hackerrank.com/certificates/4c4cf78195a8" target="_blank" rel="noreferrer noopener">Click Here</a>
   
 ### Professional Scrum Master™ I (2022)
 <a href="https://www.credly.com/badges/d21135e4-80ee-4c03-be13-6611aff304b3?source=linked_in_profile" target="_blank" rel="noreferrer noopener">Click Here</a>
