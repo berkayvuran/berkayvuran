@@ -160,6 +160,9 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 <details>
   <summary><h2>Licenses & Certifications</h2></summary>
 
+### React (HackerRank) (2023)
+<a href="https://www.hackerrank.com/certificates/7f6b4e704f37" target="_blank" rel="noreferrer noopener">Click Here</a>
+  
 ### Node (HackerRank) (2023)
 <a href="https://www.hackerrank.com/certificates/f97a28768f5d" target="_blank" rel="noreferrer noopener">Click Here</a>
   
