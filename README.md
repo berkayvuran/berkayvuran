@@ -160,6 +160,9 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 <details>
   <summary><h2>Licenses & Certifications</h2></summary>
 
+### Product Analytics Certification (2023)
+<a href="https://www.credly.com/badges/b31053b5-2114-41e6-a76c-b3acbdd12e3c/public_url" target="_blank" rel="noreferrer noopener">Click Here</a>
+
 ### Product-led Certification (2023)
 <a href="https://www.credly.com/badges/1f2a65a5-caa9-4576-8ce1-76b6d3cb8f24/public_url" target="_blank" rel="noreferrer noopener">Click Here</a>
 
