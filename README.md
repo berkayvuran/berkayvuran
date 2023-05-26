@@ -43,7 +43,7 @@ ps: Written entirely by ChatGPT-4 on March 19, 2023.
   <summary><h2>Experience</h2></summary>
     
 ### Product Manager @Emlakjet (10/2022 - Present)
-- Led for R&D application documentation, analysis, development, referee interviews, and bureaucratic negotiations via Turkish Ministry of Science & Burdur Mehmet Akif Ersoy University
+- Led R&D application documentation, analysis, development, referee interviews, and bureaucratic negotiations via Turkish Ministry of Science & Burdur Mehmet Akif Ersoy University
 - Provided structured training explaining emlakjet.com's product mindset to all fresh colleagues in the onboarding processes
 - Analyzed market problems into prioritized & deliverable stories for the no1 proptech company in Türkiye
 - Involved with all phases of software development life cycle (SDLC) from 0 to 100
