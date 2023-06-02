@@ -277,5 +277,3 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 
 <h1 align="Middle">Resume</h1>
 <a href="https://berkayvuran.com/assets/appendices/berkay-vuran-resume.pdf" target="blank"><img align="center" src="https://berkayvuran.com/assets/appendices/berkayvuran-resume.png" alt="vuranberkay" height="100%" width="100%" /></a>
-
-<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/e8ed43dbb6a30456f54e5a7b82fe90"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
