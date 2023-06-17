@@ -45,10 +45,10 @@ ps: Written entirely by ChatGPT-4 on March 19, 2023.
 ### Product Manager @Emlakjet (10/2022 - Present)
 - Led R&D application documentation, analysis, development, referee interviews, and bureaucratic negotiations
 - Spearheaded studies on ML, NLP, and generative AI implementations in the proptech domain
+- Administered solutions for the automation of the lead management & transfer processes
 - Arranged structured training explaining emlakjet.com's product mindset to all fresh colleagues in the onboarding processes
 - Chaired solutions to prevent proptech abuse and fraud activities for B2B & B2C users
 - Coordinated product development process for Jettaşın (by Octovan) that digitizes the moving process from end to end
-- Administered solutions for the automation of the lead management & transfer processes
 - Involved with all phases of software development life cycle (SDLC) from 0 to 100
 
 - On emlakjet.com in 2022, increased number of
