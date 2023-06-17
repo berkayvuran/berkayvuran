@@ -43,14 +43,13 @@ ps: Written entirely by ChatGPT-4 on March 19, 2023.
   <summary><h2>Experience</h2></summary>
     
 ### Product Manager @Emlakjet (10/2022 - Present)
-- Led R&D application documentation, analysis, development, referee interviews, and bureaucratic negotiations via Turkish Ministry of Science & Burdur Mehmet Akif Ersoy University
-- Provided structured training explaining emlakjet.com's product mindset to all fresh colleagues in the onboarding processes
-- Analyzed market problems into prioritized & deliverable stories for the no1 proptech company in Türkiye
+- Led R&D application documentation, analysis, development, referee interviews, and bureaucratic negotiations
+- Spearheaded studies on ML, NLP, and generative AI implementations in the proptech domain
+- Arranged structured training explaining emlakjet.com's product mindset to all fresh colleagues in the onboarding processes
+- Chaired solutions to prevent proptech abuse and fraud activities for B2B & B2C users
+- Coordinated product development process for Jettaşın (by Octovan) that digitizes the moving process from end to end
+- Administered solutions for the automation of the lead management & transfer processes
 - Involved with all phases of software development life cycle (SDLC) from 0 to 100
-- Managed and prioritized product backlog for bare minimum perfection which is 99.9%
-- Planned A/B test scenarios
-- Kept in touch with every stakeholder of the product regularly
-- Coordinated product strategy & release timelines & product quality with product and development teams
 
 - On emlakjet.com in 2022, increased number of
 {
