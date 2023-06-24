@@ -35,7 +35,7 @@ Please feel free to reach out to me, as I am always eager to learn, share knowle
 
 ps: Written entirely by ChatGPT-4 on March 19, 2023.
 
------
+<a href="https://berkayvuran.com/assets/images/zip-cover.png" target="blank"><img align="center" src="https://berkayvuran.com" alt="vuranberkay" height="100%" width="100%" /></a>
 
 <h1 align="Middle">Curriculum Vitae</h1>
 
