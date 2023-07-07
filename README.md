@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p> 
 
-As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PAL™ & PSD™ & PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
+As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PSFS™ & PAL™ & PSD™ & PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
 
 Throughout my career, I have held various roles within the technology sector, including Product Owner, Business Analyst, and Product Manager. My experience spans diverse organizations, ranging from the Turkish Ministry of Health to leading technology companies like Etiya, Navlungo, and Emlakjet.
 
