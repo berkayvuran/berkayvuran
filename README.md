@@ -161,6 +161,9 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 <details>
   <summary><h2>Licenses & Certifications</h2></summary>
 
+### Professional Scrum Facilitation Skills™ (2023)
+<a href="https://www.credly.com/badges/8542a9ff-cb8c-4d37-89bb-cadf8455ab17/public_url" target="_blank" rel="noreferrer noopener">Click Here</a>
+
 ### Professional Agile Leadership™ (2023)
 <a href="https://www.credly.com/badges/3706166e-aa69-4c0a-9e7e-8d84a6d2a81d/public_url" target="_blank" rel="noreferrer noopener">Click Here</a>
 
