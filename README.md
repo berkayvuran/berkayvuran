@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p> 
 
-As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PSFS™ & PAL™ & PSD™ & PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
+As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PSU™ & PSFS™ & PAL™ & PSD™ & PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
 
 Throughout my career, I have held various roles within the technology sector, including Product Owner, Business Analyst, and Product Manager. My experience spans diverse organizations, ranging from the Turkish Ministry of Health to leading technology companies like Etiya, Navlungo, and Emlakjet.
 
@@ -160,6 +160,9 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 
 <details>
   <summary><h2>Licenses & Certifications</h2></summary>
+
+### Professional Scrum™ with User Experience (2023)
+<a href="https://www.credly.com/badges/62e831e2-2006-430f-a6d8-d365347bf71a/public_url" target="_blank" rel="noreferrer noopener">Click Here</a>
 
 ### Professional Scrum Facilitation Skills™ (2023)
 <a href="https://www.credly.com/badges/8542a9ff-cb8c-4d37-89bb-cadf8455ab17/public_url" target="_blank" rel="noreferrer noopener">Click Here</a>
