@@ -148,7 +148,7 @@ Emlakjet is part of iLab Ventures. Other iLab companies include:
 - GPA: 3.08/4.00 (Honor Student) <a href="https://berkayvuran.com/assets/appendices/web.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 ### English Prep. School @Middle East Technical University (2017 - 2018)
-- Level: B2 <a href="https://berkayvuran.com/assets/appendices/prep.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
+- Level: C1 <a href="https://berkayvuran.com/assets/appendices/prep.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
 
 ### Psychology BSc @ Hacettepe University (2013 - 2017)
 - GPA: 3.55/4.00 (High Honor Student) <a href="https://berkayvuran.com/assets/appendices/psy.pdf" target="_blank" rel="noreferrer noopener">Transcript</a>
