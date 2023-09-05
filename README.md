@@ -1,7 +1,7 @@
 <p align="Middle">
 <a href="https://www.fiverr.com/users/berkayvuran" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="vuranberkay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12813966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12813966" height="30" width="40" /></a>
-<a href="https://kaggle.com/berkayvuran" target="blank"><img align="center" src="https://www.svgrepo.com/show/306288/kaggle.svg" alt="berkayvuran" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12813966" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12813966" height="30" width="40" /></a>
+<a href="https://kaggle.com/berkayvuran" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="berkayvuran" height="30" width="40" /></a>
 <a href="https://www.behance.net/berkayvuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="berkayvuran" height="30" width="40" /></a>
 <a href="https://medium.com/@berkayvuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkayvuran" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/berkayvuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berkayvuran" height="30" width="40" /></a>
