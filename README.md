@@ -1,4 +1,3 @@
-![image](https://github.com/berkayvuran/berkayvuran/assets/60464044/eb4e5a63-5751-44bc-b900-22635f23014b)<p align="Middle">
 <a href="https://www.fiverr.com/users/berkayvuran" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="vuranberkay" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12813966" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12813966" height="30" width="40" /></a>
 <a href="https://kaggle.com/berkayvuran" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="berkayvuran" height="30" width="40" /></a>
