@@ -10,9 +10,6 @@
 
 <p align="Middle"> <a href="https://app.daily.dev/berkayvuran"><img src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" width="300" alt="Berkay Vuran's Dev Card"/></a>
   
-<p align="center">
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b align="center">My motto is</b> <b><i align="center">"Perfect is the enemy of good!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p> 
 
 As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PSU™ & PSFS™ & PAL™ & PSD™ & PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
 
