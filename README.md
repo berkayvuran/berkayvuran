@@ -10,8 +10,8 @@
   
 <a href="https://berkayvuran.com" target="blank"><img align="center" src="https://berkayvuran.com/assets/images/zip-cover.png" alt="vuranberkay" height="100%" width="100%" /></a>
 
-<p align="Middle"> <a href="https://berkayvuran.com" target="blank"><img align="center" src="https://berkayvuran.com/assets/images/zip-cover.png" alt="vuranberkay" height="100%" width="50%" /></a>
-<a href="https://app.daily.dev/berkayvuran" target="blank"><img align="center" src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" alt="12813966" height="100%" width="50%" /></a></p>
+<p align="Middle"> <a href="https://berkayvuran.com" target="blank"><img align="center" src="https://berkayvuran.com/assets/images/zip-cover.png" alt="vuranberkay" height="300px" /></a>
+<a href="https://app.daily.dev/berkayvuran" target="blank"><img align="center" src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" alt="12813966" height="300px"/></a></p>
 
 As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PSU™ & PSFS™ & PAL™ & PSD™ & PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
 
