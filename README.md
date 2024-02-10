@@ -11,22 +11,8 @@
 <p align="left"> <a href="https://berkayvuran.com" target="blank"><img align="center" src="https://berkayvuran.com/assets/images/zip-cover.png" alt="vuranberkay"  width="65%" /></a>
 <a href="https://app.daily.dev/berkayvuran" target="blank"><img align="right" src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" alt="12813966" width="32%" /></a></p>
 
-As a passionate and driven product professional, I have a strong foundation in the intersection of psychology, technology, and business. I earned my BSc in Psychology in 2017 and am currently pursuing a specialization in Management and Organizational Behavior at Hacettepe University, with an expected graduation date in 2023. I am also a PSU™ & PSFS™ & PAL™ & PSD™ & PSPO™-I & PSM™-I owner and a PMP candidate, which showcases my commitment to agile methodologies and project management excellence.
+A multi disciplinary product enthusiast leveraging a rich psychology, organizational behavior, and data engineering foundation from Hacettepe University.
 
-Throughout my career, I have held various roles within the technology sector, including Product Owner, Business Analyst, and Product Manager. My experience spans diverse organizations, ranging from the Turkish Ministry of Health to leading technology companies like Etiya, Navlungo, and Emlakjet.
+Certified in PSU™, PSFS™, PAL™, PSD™, PSPO™-I, PSM™-I, blend innovative thinking with strategic execution. Over 5+ years, navigated diverse roles such as Product Manager, Product Owner, Project Manager, and Technical Analyst, adapting and excelling in varied organizational landscapes.
 
-Key highlights from my professional background include the following:
-
-- Developing effective product strategies, creating user stories, and managing product backlogs for optimal results
-- Leading the technical call center architecture and UML diagrams for the COVID-19 Hotline, which reached approximately 6,000,000 users per year
-- Designing and implementing a KPI reporting platform on AWS QuickSight, resulting in a data-oriented company culture
-- Conducting user experience studies and leading user interface changes to enhance product usability
-- Successfully increasing sales volume by over 150% and delivering a fully-featured new product from ideation to production within three months
-
-With an extensive background in UX research & design, business intelligence reporting, and project management, I have a proven track record of delivering value-driven solutions to meet the needs of various stakeholders. My ability to create meaningful connections between marketing, technology, design, and product teams has allowed me to consistently improve growth and reduce churn in the projects I have participated in.
-
-Outside of the technology circle, I also have experience as a business development specialist, which has further honed my skills in communication and collaboration. Leveraging my diverse skill set, I aim to contribute to organizations that value innovation, efficiency, and a user-centric approach.
-
-Please feel free to reach out to me, as I am always eager to learn, share knowledge, and collaborate on exciting projects.
-
-ps: Written entirely by ChatGPT-4 on March 19, 2023.
+Motto: Transform complex challenges into streamlined, user-centric solutions that drive progress and innovation.
