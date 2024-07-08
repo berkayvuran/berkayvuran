@@ -11,8 +11,8 @@
 <p align="left"> <a href="https://berkayvuran.com" target="blank"><img align="center" src="https://berkayvuran.com/assets/images/zip-cover.png" alt="vuranberkay"  width="65%" /></a>
 <a href="https://app.daily.dev/berkayvuran" target="blank"><img align="right" src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" alt="12813966" width="32%" /></a></p>
 
-A multi disciplinary product enthusiast leveraging a rich psychology, organizational behavior, and data engineering foundation from Hacettepe University.
+Highly accomplished senior product manager with over 5 years of diverse experience in product management, project management, product ownership, and business analysis combining a robust foundation in psychology and organizational behavior.
 
-Certified in PSU™, PSFS™, PAL™, PSD™, PSPO™-I, PSM™-I, blend innovative thinking with strategic execution. Over 5+ years, navigated diverse roles such as Product Manager, Product Owner, Project Manager, and Technical Analyst, adapting and excelling in varied organizational landscapes.
+Expertise in CRO, CX, SEO, ML, and AI solutions, coupled with multiple proven knowledge with certifications such as PMP®, PSPO™-I, PSM™-I, PAL™, PSU™, PSFS™, and PSD™.
 
 Motto: Transform complex challenges into streamlined, user-centric solutions that drive progress and innovation.
