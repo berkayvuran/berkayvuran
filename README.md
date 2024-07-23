@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://berkayvuran.com" target="blank"><img align="center" src="https://berkayvuran.com/assets/images/zip-cover.png" alt="vuranberkay"  width="65%" /></a>
 <a href="https://app.daily.dev/berkayvuran" target="blank"><img align="right" src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" alt="12813966" width="32%" /></a></p>
 
-Highly accomplished senior product manager with over 5 years of diverse experience in product management, project management, product ownership, and business analysis combining a robust foundation in psychology and organizational behavior.
+Highly accomplished senior product manager & scrum master with over 5 years of diverse experience in product management, project management, product ownership, and business analysis combining a robust foundation in psychology and organizational behavior.
 
 Expertise in CRO, CX, SEO, ML, and AI solutions, coupled with multiple proven knowledge with certifications such as PMP®, PSPO™-I, PSM™-I, PAL™, PSU™, PSFS™, and PSD™.
 
