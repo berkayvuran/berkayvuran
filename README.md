@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://berkayvuran.com" target="blank"><img align="center" src="https://berkayvuran.com/assets/images/zip-cover.png" alt="vuranberkay"  width="65%" /></a>
 <a href="https://app.daily.dev/berkayvuran" target="blank"><img align="right" src="https://api.daily.dev/devcards/31dd2460304b447fbf42cab49b0ae1bc.png?r=arh" alt="12813966" width="32%" /></a></p>
 
-I am a seasoned Senior Product Analyst with over five years of extensive experience in product management, project management, and business analysis, driving innovation across diverse industries including AI, machine learning, and proptech. I specialize in transforming complex challenges into strategic solutions that not only enhance customer experience (CX) but also optimize conversion rates (CRO) and overall business performance.
+I am a Lead Product Analyst with over five years of extensive experience in product management, project management, and business analysis, driving innovation across diverse industries including AI, machine learning, and proptech. I specialize in transforming complex challenges into strategic solutions that not only enhance customer experience (CX) but also optimize conversion rates (CRO) and overall business performance.
 
 Certified in a comprehensive range of agile frameworks (PMP®, PSPO™-I, PSM™-I, PAL™, PSU™-I, PSFS™, PSD™-I), I excel at Agile transformations, leading cross-functional teams to deliver high-quality products at scale. My expertise lies in building robust product roadmaps, streamlining development workflows, and ensuring clarity and efficiency through well-defined acceptance criteria. My certifications underscore my mastery of Agile methodologies, empowering me to deliver user-centric solutions that exceed business goals.
 
